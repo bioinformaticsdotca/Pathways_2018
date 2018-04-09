@@ -1,6 +1,6 @@
 ---
 layout: tutorial_page
-permalink: /pathways_2017_schedule
+permalink: /pathways_2018_schedule
 title: Pathways
 header1: Workshop Pages for Students
 header2: Pathway and Network Analysis of -Omics Data
