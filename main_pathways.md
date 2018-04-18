@@ -60,7 +60,7 @@ Welcome to Pathways and Network Analysis of -Omics Data 2018.
 
 5) A PDF viewer (Adobe Acrobat or equivalent).
 
-6) Install [Cytoscape 3.4.0](http://chianti.ucsd.edu/cytoscape-3.4.0/).  
+6) Install [Cytoscape 3.6.1](http://chianti.ucsd.edu/cytoscape-3.6.1/).  
 
 Choose the version corresponding to your operating system (OS, Windows or UNIX) 
 Cytoscape requires Java8: check your version at  https://www.java.com/verify/ and download Java8 if you do not have it installed. Contact your system administrator if you have trouble with Java installation. 
