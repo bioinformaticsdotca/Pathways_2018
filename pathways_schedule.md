@@ -19,10 +19,10 @@ home: https://bioinformaticsdotca.github.io/pathways_2018
 | 11:00 | <font color="green">*Coffee Break*</font> | 10:00 | <font color="green">*Coffee Break*</font> | 10:30 | <font color="green">*Coffee Break*</font> |
 | 11:30 | <font color="purple">Module 2: Finding Over-Represented Pathways (Veronique)</font> | 10:30 | <font color="blue">Module 4 Lab</font> | 11:00 |  <font color="blue">Module 6 Lab (Veronique)</font> |
 | 12:30 | <font color="green">*Lunch*</font> | 12:30 | <font color="green">*Lunch*</font> | 12:30 | **Survey and Closing Remarks** |
-| 1:30 | <font color="blue">Module 2 Lab</font> | 1:30 | <font color="purple">Module 5: Gene Function Prediction (Sara)</font> | | |
+| 1:30 | <font color="blue">Module 2 Lab</font> | 1:30 | <font color="purple">Module 5: Gene Function Prediction (Sara)</font> | 1:00 |  **Integrated Assignment** |
 | 3:00 | <font color="green">*Coffee Break*</font> | 3:00 | <font color="green">*Coffee Break*</font> | | |
 | 3:30 | <font color="purple">Module 3: Network Visualization and Analysis with Cytoscape (Gary and Veronique)</font> | 3:30 | <font color="blue">Module 5 Lab (Veronique)</font> |
 | 4:15 | <font color="blue">Module 3 Lab</font> | | | | |
 | 5:00 | <font color="green">*Dinner*</font> | 5:00 | <font color="green">*Dinner*</font> | | |
-|  |  | 7:00 | **Integrated Assignment** |
+
 
