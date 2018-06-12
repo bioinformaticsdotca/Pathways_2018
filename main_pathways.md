@@ -5,6 +5,10 @@ title: Pathways
 header1: Workshop Pages for Students
 header2: Pathways and Network Analysis of -Omics Data 2018
 image: /site_images/CBW_pathway_icon.jpg
+keywords: Gene lists, predict gene function, identify master regulators
+description: Course covers the bioinformatics concepts and tools available for interpreting a gene list using pathway and network information. 
+intructors: Gary Bader, Veronique Voisin, Lincoln Stein, Robin Haw, Micheal Hoffman
+length: 3 days
 ---
 # Welcome <a id="welcome"></a>
 
