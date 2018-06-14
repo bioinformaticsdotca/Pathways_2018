@@ -32,9 +32,9 @@ Gene expression from the TCGA Ovarian serous cystadenocarcinoma RNASeq V2 cohort
 
 For this exercise, our goal is to copy and paste the list of genes into g:Profiler, adjust some parameters (e.g selecting the pathway databases), run the query and explore the results.
 
-g:Profiler performs a gene-set enrichment analysis using a hypergeometric test (Fisher’s exact test) with the option to consider the ranking of the genes in the calculation of the enrichment significance. The Gene Ontology Biological Process, the KEGG and Reactome are going to be selected  as the pathway databases. The results are displayed as table or as a hierarchical tree or downloadable as a EnrichmentMap type output. 
+g:Profiler performs a gene-set enrichment analysis using a hypergeometric test (Fisher’s exact test) with the option to consider the ranking of the genes in the calculation of the enrichment significance (minimum hypergeometric test). The Gene Ontology Biological Process and Reactome are going to be selected  as pathway databases. The results are displayed as a table or as a hierarchical tree or downloadable as an EnrichmentMap type output. 
 
-Before starting this exercise, download the  required file [mesenvsimmuno_mesenonly_RNAseq_gprofiler.txt](https://github.com/bioinformatics-ca/bioinformatics-ca.github.io/raw/master/2016_workshops/pathways/module2_lab/mesenvsimmuno_mesenonly_RNAseq_gprofiler.txt).
+Before starting this exercise, download the required file [mesenvsimmuno_mesenonly_RNAseq_gprofiler.txt](https://github.com/bioinformatics-ca/bioinformatics-ca.github.io/raw/master/2016_workshops/pathways/module2_lab/mesenvsimmuno_mesenonly_RNAseq_gprofiler.txt).
 
 ## Start the exercise: 
 
