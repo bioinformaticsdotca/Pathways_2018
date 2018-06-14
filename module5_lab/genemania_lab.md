@@ -169,9 +169,9 @@ For this exercise, you are working with a list of 30 prostate cancer genes. This
 	
 11.	Locate the Functions summary tab (bottom left ![circle](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/mod5/circle.png?raw=true)) and look at what functions were  significantly enriched with these new settings.	
 
-12.	Upload a custom network to GeneMANIA: in ‘advanced options’, click on “Upload network…” and browse your computer to locate and select the file [CYP11B_pearson_correlation_prostate.txt](https://github.com/bioinformatics-ca/bioinformatics-ca.github.io/raw/master/2016_workshops/pathways/module5_lab/CYB11B_pearson_correlation_prostate.txt). Wait about a minute for the network to be uploaded.  Explore the results and locate the genes linked by the custom network (**tip**: click on “Uploaded” in the Networks tab). 
+12.	Upload a custom network to GeneMANIA: Go to the menu option at the right of the search box and go to the make sure you see the 'Networks' tab, locate 'Uploaded', expand this option using the down arrow and click on “Upload a network” and browse your computer to locate and select the file [CYP11B_pearson_correlation_prostate.txt](https://github.com/bioinformatics-ca/bioinformatics-ca.github.io/raw/master/2016_workshops/pathways/module5_lab/CYB11B_pearson_correlation_prostate.txt). Wait about a minute for the network to be uploaded.  Click on the search icon to launch the query if necessaryand explore the results and locate the genes linked by the custom network (**tip**: click on “Uploaded” in the Networks tab). 
 	
-13.	Try additional parameters of the ‘advanced options ![options](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/mod5/dotdotdot.png?raw=true)’ by selecting “Customise advanced options" and look at how the changes you made influenced the results. For example change ‘Network weighting’ method or ‘Max resultant genes: ’.  	
+13.	Try additional parameters of the ‘Customise advanced options ![options](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/mod5/dotdotdot.png?raw=true)’ tab and look at how the changes you made influenced the results. For example change ‘Network weighting’ method or ‘Max resultant genes: ’.  	
 
 
 ## EXERCISE 2 ANSWERS: DETAILED STEPS AND SCREENSHOTS
