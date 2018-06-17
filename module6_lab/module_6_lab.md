@@ -65,7 +65,7 @@ Create a network by importing a text file, run iRegulon to detect regulons, expl
 
 3)	Improve the layout.  
 
-   ●	In the menu bar, select Layout > Files Layouts > Organic.	
+   ●	In the menu bar, select Layout > Prefuse Directed Layout, weight.	
 
 4)	Select all nodes in the network. To do this using the mouse, press shift and drag from an empty space to the left of and above every node to an empty space to the right of and beneath every node. The selected nodes are now colored yellow.	
 
