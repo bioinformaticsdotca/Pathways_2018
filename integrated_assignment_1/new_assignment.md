@@ -77,7 +77,7 @@ An important feature of g:Profiler is an ability to work with sorted or ranked l
 
 Now we have to generate an output from the enrichment analysis and save it in appropriate format for EnrichmentMap. Please, change the output type to *Generic Enrichment Map (TAB)*.
 
-Run it using options used in PART 3. Download data in Generic EnrichmentMap (GEM) format. We will need this file for Enrichment map.
+Run it using options used in PART 3. Download data in Generic EnrichmentMap (GEM) format and savw it on your computer. We will need this file to create an enrichment map.
 
 ## PART 5
 
