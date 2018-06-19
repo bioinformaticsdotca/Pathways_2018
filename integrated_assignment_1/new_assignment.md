@@ -101,9 +101,11 @@ Create an enrichment map to visualize the outputs from g:Profiler. Let's create 
 
 7. 'Build' the map.
 
-4.  If successful, you will see a network where each node represents a pathway and edges connect pathways with shared genes. Node size is proportional to the number of genes in this pathway, intensity of the node color represents the enrichment strength and edge weight is relative to the number of genes shared between connected nodes.
+4.  If successful, you will see a network where each node represents a pathway and edges connect pathways with shared genes. Blue edges connect nodes from dataset1 (BE in my case) and Green edges connect nodes from dataset2 (NE in my case). 
 
-5.  Try different layouts. For example: Layouts -> yFiles Layouts -> Organic. Move nodes around to be able to read the labels.
+5. In Control Panel and in the 'EnrichmentMap' tab, go to 'Style' and change the 'Chart Data:' to 'Color by Data Set'. Now the nodes are colored in blue for dataset1 and in green for dataset2. 
+
+5.  Try different layouts if you'd like. Zoom in  and move nodes around to be able to read the labels.
 
 6.   Select a node of your choice. When the node is highlighted, the expression profile of all genes included in this pathway appears in the *Heat Map (nodes)* viewer tab. Get familiar with the options provided by this panel. Save expression Set.
 
