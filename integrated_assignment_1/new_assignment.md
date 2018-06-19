@@ -87,19 +87,19 @@ Generate and save the Generic EnrichmentMap for genes in [NConly_genelist.txt](h
 
 Create an enrichment map to visualize the outputs from g:Profiler. Let's create an EnrichmentMap for the pathways that were enriched by the genes specific of the BE samples and one for the genes specific of the NE samples. 
 
-1. Make sure to rename your g:Profiler results so you know which one is BE and which one is NE. Create a directory and copy the results of your 2 g:Profiler runs ( 1 for BE and 1 fo NE) in this folder. 
+1. Make sure to rename your g:Profiler results so you know which one is BE and which one is NE. Create a directory and copy the results of your 2 g:Profiler runs ( 1 for BE and 1 fo NE) in this folder. Let's name this folder 'IA_gprofiler_results'. This folder should contains only these 2 files.
 
 2.  Open Cytoscape
 
-3.  Go: Apps &gt; EnrichmentMap &gt; Create Enrichment Map
+3.  Go: Apps and click on EnrichmentMap &gt. A 'Create Enrichment Map' dialog box appears.
 
-4.  
- 
- * 
- * Upload the files from your g:Profiler run (1 g:Profiler output file and the g:Profiler /gmt file, see module 2 lab if you need more instructions] into EnrichmentMap. 
- * Use the expression file  [BE_vs_NE_expression.txt](https://github.com/bioinformatics-ca/bioinformatics-ca.github.io/raw/master/2016_workshops/pathways/integrated_assignment_1/BE_vs_NE_expression.txt) file (right click, save link as). The expression file has to be uploaded in the "expression" field located above the "enrichment result" box.  
- * In parameters, use P-value Cutoff of 1 and FDR Q-value Cutoff of 0.05. Create 2 EnrichmentMaps, 1 for BE and 1 for NC
- * Build the map.
+4.  Drag and Drop your 'IA_gprofiler_results' folder in the 'Data Sets:' window. It populated automatically two data sets on for the BE results and one for the NE results. Make sure that for the 2 datasets the 'Analysis Type' is set to 'Generic/gProfiler' and that the g:Profiler result file has been correctly uploaded in the 'Enrichments' field.
+
+5. As 'Network Name', uncheck 'Use Default' and write "BEvsNE" or the name of your choice for this network.
+
+6. Set the 'FDR q-value cutoff' to 0.05. 
+
+7. 'Build' the map.
 
 4.  If successful, you will see a network where each node represents a pathway and edges connect pathways with shared genes. Node size is proportional to the number of genes in this pathway, intensity of the node color represents the enrichment strength and edge weight is relative to the number of genes shared between connected nodes.
 
