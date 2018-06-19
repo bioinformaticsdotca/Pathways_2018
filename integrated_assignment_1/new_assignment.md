@@ -53,7 +53,7 @@ For g:Profiler, genes with a FDR equal or less than 0.0001 and a logFC of 2 were
 
 5.  Set Benjamini-Hochberg in the 'Significance threshold' box.
 
-6.  Run analysis of the genes differentially altered between BE and normal: copy and paste the gene list into the g:Profiler input window [BEonly_genelist.txt] (https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/integrated_assignment_1/BEonly_genelist_v2.txt).
+6.  Run analysis of the genes differentially altered between BE and normal: copy and paste the gene list into the g:Profiler input window [BEonly_genelist.txt](https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/integrated_assignment_1/BEonly_genelist_v2.txt).
 
 7.  **Question:** What is the most significant GO:term? What is the p-value for this GO:term?
 
@@ -67,7 +67,7 @@ For g:Profiler, genes with a FDR equal or less than 0.0001 and a logFC of 2 were
 
 An important feature of g:Profiler is an ability to work with sorted or ranked lists. The top of such a list is given more weight in determining the functional connections to GO:terms and/or pathways. Our gene list was initially sorted by the FDR value based on the significant differential expression.
 
-1.  Open g:Profiler in a new window and paste genes from [BEonly_genelist.txt] (https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/integrated_assignment_1/BEonly_genelist_v2.txt).
+1.  Open g:Profiler in a new window and paste genes from [BEonly_genelist.txt](https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/integrated_assignment_1/BEonly_genelist_v2.txt) .
 
 2.  Use same options as part 2 (*User p-value* threshold set to 0.0001) and select also *Ordered query*.
 
