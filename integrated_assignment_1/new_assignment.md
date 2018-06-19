@@ -85,13 +85,17 @@ Generate and save the Generic EnrichmentMap for genes in [NConly_genelist.txt](h
 
 ## PART 6
 
-Create an EnrichmentMap to visualize the outputs from g:Profiler.
+Create an enrichment map to visualize the outputs from g:Profiler. Let's create an EnrichmentMap for the pathways that were enriched by the genes specific of the BE samples and one for the genes specific of the NE samples. 
 
-1.  Open Cytoscape
+1. Make sure to rename your g:Profiler results so you know which one is BE and which one is NE. Create a directory and copy the results of your 2 g:Profiler runs ( 1 for BE and 1 fo NE) in this folder. 
 
-2.  Go: Apps &gt; EnrichmentMap &gt; Create Enrichment Map
+2.  Open Cytoscape
 
-3.  Let's create an EnrichmentMap for the pathways that were enriched by the genes specific of the BE samples and one for the genes specific of the NC samples. 
+3.  Go: Apps &gt; EnrichmentMap &gt; Create Enrichment Map
+
+4.  
+ 
+ * 
  * Upload the files from your g:Profiler run (1 g:Profiler output file and the g:Profiler /gmt file, see module 2 lab if you need more instructions] into EnrichmentMap. 
  * Use the expression file  [BE_vs_NE_expression.txt](https://github.com/bioinformatics-ca/bioinformatics-ca.github.io/raw/master/2016_workshops/pathways/integrated_assignment_1/BE_vs_NE_expression.txt) file (right click, save link as). The expression file has to be uploaded in the "expression" field located above the "enrichment result" box.  
  * In parameters, use P-value Cutoff of 1 and FDR Q-value Cutoff of 0.05. Create 2 EnrichmentMaps, 1 for BE and 1 for NC
