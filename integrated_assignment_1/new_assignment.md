@@ -51,7 +51,7 @@ For g:Profiler, genes with a FDR equal or less than 0.0001 and a logFC of 2 were
 
 4.  Set minimum size of functional category to 3 and maximum to 500. Set 2 for the *Size of query/ term intersection*.
 
-5.  Set Benjamini-Hochberg as the significance threshold.
+5.  Set Benjamini-Hochberg in the 'Significance threshold' box.
 
 6.  Run analysis of the genes differentially altered between BE and normal: copy and paste the gene list into the g:Profiler input window [BEonly_genelist.txt](https://github.com/bioinformatics-ca/bioinformatics-ca.github.io/raw/master/2016_workshops/pathways/integrated_assignment_1/BEonly_genelist.txt).
 
