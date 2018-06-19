@@ -81,7 +81,7 @@ Run it using options used in PART 3. Download data in Generic EnrichmentMap (GEM
 
 ## PART 5
 
-Generate and save the Generic EnrichmentMap for genes in [NConly_genelist.txt](https://github.com/bioinformatics-ca/bioinformatics-ca.github.io/raw/master/2016_workshops/pathways/integrated_assignment_1/NEonly_genelist.txt). It contains the genes specific of the normal tissue samples. Run g:Profiler with this list using same options as in PART 4 selecting Generic Enrichment Map (GEM) format as output type. We will need this file for EnrichmentMap.
+Generate and save the Generic EnrichmentMap for genes in [NConly_genelist.txt](https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/integrated_assignment_1/NEonly_genelist.txt). It contains the genes specific of the normal tissue samples. Run g:Profiler with this list using same options as in PART 4 selecting Generic Enrichment Map (GEM) format as output type. We will need this file for EnrichmentMap.
 
 ## PART 6
 
