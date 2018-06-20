@@ -189,7 +189,7 @@ Optional: Autoannotate your map (see below screenshot for results)
  
  
  Screenshot of resulting network:
-
+[IA_iregulon.png](https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/integrated_assignment_1IA_iregulon.png, raw=TRUE)
 
 
 ## DATASET 2
