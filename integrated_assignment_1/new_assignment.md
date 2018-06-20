@@ -153,7 +153,7 @@ Optional: Autoannotate your map (see below screenshot for results)
 
 ![GSEA_map.png](https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/integrated_assignment_1/BEvsNE_GSEAmap_Q0_01.png?raw=true)
 
-## PART 7: iRegulon
+## PART 8: iRegulon
 
  1. Export extracellular matrix genes. Using your GSEA map at q-value 0.01, select all nodes from the extracellular matrix/collagen cluster. Go to Table Panel, and click on the Settings icon (located on the right, shaped like a ship wheel) and click on 'Export as TXT'. Save the text file under the name 'extracellularmatrix_cluster_genes.txt' or use this file [extracellularmatrix_cluster_genes.txt]().
  
