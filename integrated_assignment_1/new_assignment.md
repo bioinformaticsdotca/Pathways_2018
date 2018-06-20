@@ -128,7 +128,7 @@ Note: you also could create and upload an expression file when you build the enr
 
 ![gprofiler_NC_map.png](https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/integrated_assignment_1/NEmapQ0_01.png?raw=true)
 
-Optional: when you build the enrichment map using the g:Profiler results, you have the option to upload a .gmt file (downloaded from the g:Profiler website) []
+Optional: when you build the enrichment map using the g:Profiler results, you have the option to upload a .gmt file (downloaded from the g:Profiler website) [hsapiens.pathways.NAME.gmt](https://github.com/bioinformatics-ca/bioinformatics-ca.github.io/raw/master/Pathways_2018/integrated_assignment_1/hsapiens.pathways.NAME.gmt)
 and an expression file [BE_vs_NE_expression.txt](https://github.com/bioinformatics-ca/bioinformatics-ca.github.io/raw/master/2016_workshops/pathways/integrated_assignment_1/BE_vs_NE_expression.txt). The .gmt file provides the advantage to show not only the genes that are in your gene list and the enriched pathway (selected node) but all the genes in the original pathway. The expression file will be displayed in the EM Heat Map when a node is selected and it will display expression values for each gene in the selected pathway (selected node). try it and adapt to your needs. 
 
 ## PART 7: GSEA
