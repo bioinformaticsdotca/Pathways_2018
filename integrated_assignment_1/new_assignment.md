@@ -175,13 +175,21 @@ Optional: Autoannotate your map (see below screenshot for results)
    * Execute the same steps for the second hit (BATF).
    * If successful, you should see targets of TCF12 and BATF linked to these 2 genes by edges (lines).
  
- 5. Create a subnetwork will all nodes connected to TCF12 and BATF.
+ 5. Create a subnetwork with all nodes connected to TCF12 and BATF.
+  * using the mouse select TCF12 and all edges around this node and pressing the shift key, select also BATF and all the edges around this node. All selected edges should now be highlighted in red and the 2 transcription factors in yellow.
+  * In the Cytoscape menu bar, go to Select, Nodes, Nodes connected by selected edges. More nodes should be selected now and the edges still highlighted in red.
+  * Select the subnetwork icon ('New Network from Selection (all edges)')from the Cytoscape toolbar. If successful, you should have created a subnetwork containing only the targeted genes and the two transcription factors.
  
  6. Arrange the network such that we can distinguish genes linked to TCF12 only , linked to BATF only or linked to both transcription factors.
+  * go to the Cytoscape menu, Layout, Circular Layout, all Nodes. Feel free to use your own strategy.
  
- 7. optional. Import the .rnk file as attribute and color the nodes accordingly to the score values.
+ 7. optional. Import the .rnk file that we use for GSEA []() as attribute and color the nodes accordingly to the score values.
+  * in the menu bar, select, File, Import, File, select the rank file and click on 'Open'. A dialog box ('Import Columns From Table') opens. Uncheck 'Use first line as column names' and click 'OK'. Rename Column2 as 'myscore'. Click 'OK'. 
+  * in Control Panel, go to Style and in the Node tab, expand the 'Fill Color' tab.  Retrieve and select the 'score' column in the 'column' fied. Make sure that the 'Mapping type' is set to 'Continuous Mapping'. The score  should ranged from -13.16 to 13.16. Adjust the color if necessary.
+ 
  
  Screenshot of resulting network:
+
 
 
 ## DATASET 2
