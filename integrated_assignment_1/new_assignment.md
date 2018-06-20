@@ -238,11 +238,14 @@ Hint:select the pathway in the table, that should highlight the genes in yellow.
 ## PART 2
 
 Use the same mutation data  [STAD_MutSig.txt](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/integrated_assignment_1/STAD_MutSig.txt) to create a network using GeneMANIA in order to visualize which genes are known to physically interact with each other.
-Hint: select only "Physical interactions" in "Advanced Options" paramaters of the GeneMANIA input dialog box.
+ * In Cytoscape , open the GeneMANIA app and select 'GeneMANIA Local Search'. Copy and paste the MutSig genes in the 'Genes of Interest' fiel.
+ * In Advanced Options, select only 'Physical interactions' as 'Interaction Networks' and set 0 in the "Find the top" 0 "related genes".
+ * Click on 'Start'.
 
-!Warning: Use the GeneMANIA Cytoscape app for this exercise. If you use it for the first time and you haven't installed data as it was said in the installation instructions, only install "CORE" data as the full data may take 1 hour to download. 
+!Warnings: 
+ * Use the GeneMANIA Cytoscape app for this exercise. If you use it for the first time and you haven't installed data as it was said in the installation instructions, only install "CORE" data as the full data may take 1 hour to download. 
+ * The network may look slightly different compared to below screenshot if the underlying database has been updated since the screenshot was taken.
 
-The network may look slightly different compared to above screenshots as the geneMANIA underlying pathway database has been recently updated.
 
 ![genemania_input.png](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/IN_genemania_input.png?raw=true)
 
