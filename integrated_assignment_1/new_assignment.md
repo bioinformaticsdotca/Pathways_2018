@@ -142,11 +142,14 @@ and an expression file [BE_vs_NE_expression.txt](https://github.com/bioinformati
   * /!\ Use 100 permutations for the lab exercise /!\ but use 1000 for your own data analysis. 
   * Choose a name for your analysis, a destination folder and run GSEA.
 
-3.  Create an EnrichmentMap:
-  * look at module 3 if you don't remember how to load the files. The enrichment results are 2 excel files called gsea_report_for_na_neg and gsea_report_for_na_pos within the GSEA folder saved on your computer. Tip: try the .rpt automatic upload : click on the enrichment field on the EnrichmentMap interface and locate the .rpt file in the GSEA folder. 
-  *  uses parameters a P-value Cutoff of 1 (in other words: we don't use the pvalue filter), an FDR Q-value Cutoff of 0.001 and Jaccard Coefficient as Similarity Cutoff. Upload the expression file [BE_vs_NE_expression.txt](https://github.com/bioinformatics-ca/bioinformatics-ca.github.io/raw/master/2016_workshops/pathways/integrated_assignment_1/BE_vs_NE_expression.txt)(right click, save link as). 
+3.  Create an enrichment map:
+  * Open Cytoscape and the EnrichmentMap app. The enrichment results are 2 excel files called gsea_report_for_na_neg and gsea_report_for_na_pos within the GSEA folder saved on your computer but you should be able to drag and drop the whole GSEA folder and that will populate the required fields automatically. 
+  
+  *  use an FDR q-value cutoff of 0.05. Upload the expression file [BE_vs_NE_expression.txt](https://github.com/bioinformatics-ca/bioinformatics-ca.github.io/raw/master/2016_workshops/pathways/integrated_assignment_1/BE_vs_NE_expression.txt)(right click, save link as). 
 
-4.  Examine the results as you did for the g:Profiler map (e.g move nodes around, use the slide bar to adjust Q values). Save the file. Save an image.
+4.  Examine the results as you did for the g:Profiler map (e.g move nodes around, use the slide bar to adjust q value to 0.01 and redo the layout, separate blue and red nodes). Save the file. Save an image.
+
+Optional: Autoannotate your map (see below screenshot for results)
 
 ![GSEA_map.png](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/BE_NE_GSEA_map.png?raw=true)
 
