@@ -122,11 +122,11 @@ Note: you also could create and upload an expression file when you build the enr
 
 **BE map Q-value 0.01** 
 
-![gprofiler_BE_map.png](https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/integrated_assignment_1/Pathways_2018/integrated_assignment_1/NEmapQ0_01.png?raw=true)
+![gprofiler_BE_map.png](https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/integrated_assignment_1/BEmapQ0_01.png?raw=true)
 
 **NC map Q-value 0.01** 
 
-![gprofiler_NC_map.png](https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/integrated_assignment_1/Pathways_2018/integrated_assignment_1/NEmapQ0_01.png?raw=true)
+![gprofiler_NC_map.png](https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/integrated_assignment_1/NEmapQ0_01.png?raw=true)
 
 
 ## PART 7: GSEA
