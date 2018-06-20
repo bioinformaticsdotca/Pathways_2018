@@ -91,7 +91,7 @@ Create an enrichment map to visualize the outputs from g:Profiler. Let's create 
 
 2.  Open Cytoscape
 
-3.  Go: Apps and click on EnrichmentMap &gt. A 'Create Enrichment Map' dialog box appears.
+3.  Go: Apps and click on EnrichmentMap. A 'Create Enrichment Map' dialog box appears.
 
 4.  Drag and Drop your 'IA_gprofiler_results' folder in the 'Data Sets:' window. It populated automatically two data sets on for the BE results and one for the NE results. Make sure that for the 2 datasets the 'Analysis Type' is set to 'Generic/gProfiler' and that the g:Profiler result file has been correctly uploaded in the 'Enrichments' field.
 
