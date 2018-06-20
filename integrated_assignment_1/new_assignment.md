@@ -189,9 +189,10 @@ Optional: Autoannotate your map (see below screenshot for results)
  
  
  Screenshot of resulting network:
+ 
+ 
 ![IA_iregulon](https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/integrated_assignment_1/IA_iregulon.png?raw=true)
 
-![IN2](https://github.com/bioinformatics-ca/bioinformatics-ca.github.io/blob/master/2016_workshops/pathways/img/in2.png?raw=true)
 
 ## DATASET 2
 Stomach cancer or gastric cancer is a cancer developing from the lining of the stomach. The most common cause is infection by the bacteria Helicopter pylori, which accounts for more than 60% of cases. Certain types of 'H. pylori' have greater risks than others. Other common causes include eating pickled vegetables and smoking.
