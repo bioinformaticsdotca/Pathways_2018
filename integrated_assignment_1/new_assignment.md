@@ -261,14 +261,16 @@ Use the same mutation data  [STAD_MutSig.txt](https://github.com/bioinformaticsd
    * Expand the 'Fill Color' tab using the down arrow and set the 'Column' to 'annotation name' which is the top field (/!\ not 'annotations'). Select 1 annotation of your choice by clicking on the white space and choose a color. Repeat for 2 annotation names. For the current example, we have selected 'BMP signaling pathway', 'Notch signaling pathway' and'Wnt signaling pathway'. Hint: the annotation names are displayed in alphabetical order. 
  
 
- * Edge width (optional). In Control Panel, go to the 'Edge' panel. Expand the 'Width' field using the down arrow. A grah is displayed. Double click on the graph to select it and move the left and right handles up. Look at the changes on the network (suggest values are 7 for the left handle and 18 for the right handle). Click on OK.
+ * Edge width (optional). In Control Panel, go to the 'Edge' panel. Expand the 'Width' field using the down arrow. A grah is displayed. Double click on the graph to select it and move the left and right handles up. Look at the changes on the network (suggested values are 7 for the left handle and 18 for the right handle). Click on OK.
  
  screenshot handles
  
  screenshot network
  
 4. Create a subnetwork containing CTNNB1 and connected genes
-Locate CTNNB1, use the "First neighbors of selected nodes" icon (has the shape of 2 houses) in the toolbar to highlight genes connected to CTNNB1 and create a subnetwork. How many nodes do contain this subnetwork?
+ * Locate CTNNB1, use the "First neighbors of selected nodes" icon (has the shape of 2 houses) in the toolbar to highlight genes connected to CTNNB1 
+ * Create a subnetwork using the approriate icon. 
+ * How many nodes do contain this subnetwork? Hint: Go to Control Panel, Network and look at the number of nodes corresponding to your subnetwork. 
 
 ![subnetwork.png](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/IN_subnetwork.png?raw=true)
 
