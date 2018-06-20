@@ -101,19 +101,22 @@ Create an enrichment map to visualize the outputs from g:Profiler. Let's create 
 
 7. 'Build' the map.
 
-4.  If successful, you will see a network where each node represents a pathway and edges connect pathways with shared genes. Blue edges connect nodes from dataset1 (BE in my case) and Green edges connect nodes from dataset2 (NE in my case). 
+8.  If successful, you will see a network where each node represents a pathway and edges connect pathways with shared genes. Blue edges connect nodes from dataset1 (BE in my case) and Green edges connect nodes from dataset2 (NE in my case). 
 
-5. In Control Panel and in the 'EnrichmentMap' tab, go to 'Style' and change the 'Chart Data:' to 'Color by Data Set'. Now the nodes are colored in blue for dataset1 and in green for dataset2. 
+9. In Control Panel and in the 'EnrichmentMap' tab, go to 'Style' and change the 'Chart Data:' to 'Color by Data Set'. Now the nodes are colored in blue for dataset1 and in green for dataset2. 
 
-5.  Try different layouts if you'd like. Zoom in  and move nodes around to be able to read the labels.
+10.  Try different layouts if you'd like. Zoom in  and move nodes around to be able to read the labels.
 
-6.   Select a node of your choice. When the node is highlighted, the expression profile of all genes included in this pathway appears in the *Heat Map (nodes)* viewer tab. Get familiar with the options provided by this panel. Save expression Set.
+11. Try to separate blue nodes and green nodes. In 'Control Panel' located at the left style, choose the 'Style' tab. Click on the '+' plus sign to add a column to filter your data. Choose "NodeL:EM1_Colouring" corresponding to the NE datasets. Do not touch the slide bar and click on "Apply" located at the bottom of the tab. Now it has selected all the NE nodes. Click on one NE nodes and drag them all to the one side of the window, apart from the BE nodes. Click once on a blank space of the window to unselect the nodes.
 
-7.  Click on any edge (the line between nodes). In the Table panel ( Heat Map (edges)) you should see a heatmap of all genes both gene-sets connected by this edge have in common.
+6.   Select a node of your choice. When the node is highlighted, the 'EM Heat Map' in 'Table Panel' will display the genes in this pathway that are overlapping with your input gene list. A gray square means that the gene is absent in the dataset.
+Note: you also could create and upload an expression file when you build the enrichment map, and the expression values for each gene in the pathways will be displayed here in the 'EM Heat Map'. 
 
-8.  Select several nodes and edges. *Heat Map (nodes)* will show the union of all genes in the selected gene sets. *Heat Map (edges)* will show only those genes that all selected sets have in common.
+7.  Click on any edge (the line between nodes). In the 'Table panel' ('EM Heat Map') you should see a heatmap of all genes both gene-sets connected by this edge have in common.
 
-9.  Go to View -> Show Results Panel. Change q-value (FDR) as well as similarity cutoffs and see how the network changes. Redo the layout. Save the file.
+8.  Select several nodes and edges. EM Heat map will show the union of all genes (Genes: All) or genes in common (Genes:Common) in the selected gene sets. 
+
+9.  In Control Panel, go to the EnrichmentMap tab. Change Q-value as well as Edge (Similarity) cutoffs and see how the network changes. Redo the layout. Save the file.
 
 **Question** What conclusions can you make based on these networks?
 
@@ -125,7 +128,6 @@ Create an enrichment map to visualize the outputs from g:Profiler. Let's create 
 
 ![gprofiler_NC_map.png](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/gprofiler_NC_map2.png?raw=true)
 
-Hint: you can obtain more gene-sets by using the gProfiler pvalue = 0.05 instead of 0.0001. 
 
 ## PART 7: GSEA
 
