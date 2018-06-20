@@ -147,11 +147,29 @@ and an expression file [BE_vs_NE_expression.txt](https://github.com/bioinformati
   
   *  use an FDR q-value cutoff of 0.05. Upload the expression file [BE_vs_NE_expression.txt](https://github.com/bioinformatics-ca/bioinformatics-ca.github.io/raw/master/2016_workshops/pathways/integrated_assignment_1/BE_vs_NE_expression.txt)(right click, save link as). 
 
-4.  Examine the results as you did for the g:Profiler map (e.g move nodes around, use the slide bar to adjust q value to 0.01 and redo the layout, separate blue and red nodes). Save the file. Save an image.
+4.  Examine the results as you did for the g:Profiler map (e.g move nodes around, use the slide bar to adjust q value to 0.01 and redo the layout, separate blue and red nodes). Save the file. Save an image. Keep your session open for Part 8.
 
 Optional: Autoannotate your map (see below screenshot for results)
 
 ![GSEA_map.png](https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/integrated_assignment_1/BEvsNE_GSEAmap_Q0_01.png?raw=true)
+
+## PART 7: iRegulon
+
+ 1. Export extracellular matrix genes. Using your GSEA map at q-value 0.01, select all nodes from the extracellular matrix/collagen cluster. Go to Table Panel, and click on the Settings icon (located on the right, shaped like a ship wheel) and click on 'Export as TXT'. Save the text file under the name 'extracellularmatrix_cluster_genes.txt' or use this file [extracellularmatrix_cluster_genes.txt]().
+ 
+ 2. Import the extracellular matrix genes as a network.
+ 
+ 3. Run iRegulon.
+ 
+ 4. Add the first 2 hits (TCF12 and BATF) to the network.
+ 
+ 5. Create a subnetwork will all nodes connected to TCF12 and BATF.
+ 
+ 6. Arrange the network such that we can distinguish genes linked to TCF12 only , linked to BATF only or linked to both transcription factors.
+ 
+ 7. optional. Import the .rnk file as attribute and color the nodes accordingly to the score values.
+ 
+ Screenshot of resulting network:
 
 
 ## DATASET 2
