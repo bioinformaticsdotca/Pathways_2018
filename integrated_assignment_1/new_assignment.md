@@ -135,9 +135,10 @@ Note: you also could create and upload an expression file when you build the enr
 
 2.  Run GSEA using the rank file that has been created from the differential expression test comparing BE vs NE [BEvsNE_ranks.rnk](https://github.com/bioinformatics-ca/bioinformatics-ca.github.io/raw/master/2016_workshops/pathways/integrated_assignment_1/BEvsNE_ranks.rnk) and the pathway file [Human_GOBP_AllPathways_no_GO_iea_May_24_2016_symbol.gmt](https://github.com/bioinformatics-ca/bioinformatics-ca.github.io/raw/master/2016_workshops/pathways/integrated_assignment_1/Human_GOBP_AllPathways_no_GO_iea_May_24_2016_symbol.gmt).
 
-  * open GSEA aas instructed in module 2
-  * upload the .rnk and .gmt files
+  * open GSEA and first import the files using the "Load data" window: upload the .rnk and .gmt files.
+  * Go the 'Run GSEAPreranked' window and select the correct gmt file and the rank file
   * Use 100 permutations for the lab exercise /!\ but use 1000 for your own data analysis. 
+  * Choose a name for your analysis, a destination folder and run GSEA.
 
 3.  Create an EnrichmentMap:
   * look at module 3 if you don't remember how to load the files. The enrichment results are 2 excel files called gsea_report_for_na_neg and gsea_report_for_na_pos within the GSEA folder saved on your computer. Tip: try the .rpt automatic upload : click on the enrichment field on the EnrichmentMap interface and locate the .rpt file in the GSEA folder. 
