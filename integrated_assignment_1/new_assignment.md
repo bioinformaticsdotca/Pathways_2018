@@ -155,13 +155,25 @@ Optional: Autoannotate your map (see below screenshot for results)
 
 ## PART 8: iRegulon
 
- 1. Export extracellular matrix genes. Using your GSEA map at q-value 0.01, select all nodes from the extracellular matrix/collagen cluster. Go to Table Panel, and click on the Settings icon (located on the right, shaped like a ship wheel) and click on 'Export as TXT'. Save the text file under the name 'extracellularmatrix_cluster_genes.txt' or use this file [extracellularmatrix_cluster_genes.txt](https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/integrated_assignment_1/extracellularmatrix_cluster_genes.txt).
+ 1. Export extracellular matrix genes. 
+  * Using your GSEA map at q-value 0.01, select all nodes from the extracellular matrix/collagen cluster. Go to Table Panel, and click on the Settings icon (located on the right, shaped like a ship wheel) and click on 'Export as TXT'. Save the text file under the name 'extracellularmatrix_cluster_genes.txt' or use this file [extracellularmatrix_cluster_genes.txt](https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/integrated_assignment_1/extracellularmatrix_cluster_genes.txt).
  
  2. Import the extracellular matrix genes as a network.
- 
- 3. Run iRegulon.
+  * In Cytoscape, go to the menu bar and select, File, Import, Network, File... 
+  * Browse your computer and select the 'extracellularmatrix_cluster_genes.txt' file and click on open.
+  * An 'Import Network From Table' opens and in the table preview, make sure that the 'Gene'column is the source node (green dot). Click on 'OK'. A 'Confirmation' dialog box saying that 'No edges will be created in the network' opens. Click on 'Yes'.
+  
+ 3. Select nodes and run iRegulon.
+   * If successful, you should see a grid of gray nodes. Zoom out to see all the nodes and select them all using the mouse.
+   * Go the Cytoscape menu and select 'Apps', 'iRegulon', 'Predict regulators and targets'. 
+   * Click on 'Submit'.
+   * Observe the iRegulon results in the Results Panel.
  
  4. Add the first 2 hits (TCF12 and BATF) to the network.
+   * Go to the "Transcription Factors' tab and click on the first hit (TCF12) to select it.
+   * Add it to the network using the green '+' button .
+   * Execute the same steps for the second hit (BATF).
+   * If successful, you should see targets of TCF12 and BATF linked to these 2 genes by edges (lines).
  
  5. Create a subnetwork will all nodes connected to TCF12 and BATF.
  
