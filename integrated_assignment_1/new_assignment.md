@@ -151,8 +151,7 @@ and an expression file [BE_vs_NE_expression.txt](https://github.com/bioinformati
 
 Optional: Autoannotate your map (see below screenshot for results)
 
-![GSEA_map.png](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/BE_NE_GSEA_map.png?raw=true)
-
+![GSEA_map.png](https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/integrated_assignment_1/BEvsNE_GSEAmap_Q0_01.png?raw=true)
 
 
 ## DATASET 2
