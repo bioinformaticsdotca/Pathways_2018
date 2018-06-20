@@ -137,7 +137,7 @@ Note: you also could create and upload an expression file when you build the enr
 
   * open GSEA and first import the files using the "Load data" window: upload the .rnk and .gmt files.
   * Go the 'Run GSEAPreranked' window and select the correct gmt file and the rank file
-  * Use 100 permutations for the lab exercise /!\ but use 1000 for your own data analysis. 
+  * /!\ Use 100 permutations for the lab exercise /!\ but use 1000 for your own data analysis. 
   * Choose a name for your analysis, a destination folder and run GSEA.
 
 3.  Create an EnrichmentMap:
