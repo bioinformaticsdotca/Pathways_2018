@@ -238,7 +238,9 @@ Hint:select the pathway in the table, that should highlight the genes in yellow.
 ## PART 2
 
 Use the same mutation data  [STAD_MutSig.txt](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/integrated_assignment_1/STAD_MutSig.txt) to create a network using GeneMANIA in order to visualize which genes are known to physically interact with each other.
- * In Cytoscape , open the GeneMANIA app and select 'GeneMANIA Local Search'. Copy and paste the MutSig genes in the 'Genes of Interest' fiel.
+
+Create the network
+ * In Cytoscape , open the GeneMANIA app and select 'GeneMANIA Local Search'. Copy and paste the MutSig genes in the 'Genes of Interest' field.
  * In Advanced Options, select only 'Physical interactions' as 'Interaction Networks' and set 0 in the "Find the top" 0 "related genes".
  * Click on 'Start'.
 
@@ -246,15 +248,29 @@ Use the same mutation data  [STAD_MutSig.txt](https://github.com/bioinformaticsd
  * Use the GeneMANIA Cytoscape app for this exercise. If you use it for the first time and you haven't installed data as it was said in the installation instructions, only install "CORE" data as the full data may take 1 hour to download. 
  * The network may look slightly different compared to below screenshot if the underlying database has been updated since the screenshot was taken.
 
-
 ![genemania_input.png](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/IN_genemania_input.png?raw=true)
-
 
 ![genemania_output.png](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/IN_genemania_output.png?raw=true)
 
-Locate CTNNB1, use the "First neighbors of selected nodes" icon in the tool bar to highlight genes connected to CTNNB1 and create a subnetwork. How many nodes do contain this subnetwork?
+ * Explore the functions in the GeneMANIA Results Panel.
 
-Hint: ![subnetwork.png](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/IN_subnetwork.png?raw=true)
+Improve the visual style:
+
+ * Color nodes by function. 
+   * In Control Panel, select the 'Node' tab.
+   * Expand the 'Fill Color' tab using the down arrow and set the 'Column' to 'annotation name' which is the top field (/!\ not 'annotations'). Select 1 annotation of your choice by clicking on the white space and choose a color. Repeat for 2 annotation names. For the current example, we have selected 'BMP signaling pathway', 'Notch signaling pathway' and'Wnt signaling pathway'. Hint: the annotation names are displayed in alphabetical order. 
+ 
+
+ * Edge width (optional). In Control Panel, go to the 'Edge' panel. Expand the 'Width' field using the down arrow. A grah is displayed. Double click on the graph to select it and move the left and right handles up. Look at the changes on the network (suggest values are 7 for the left handle and 18 for the right handle). Click on OK.
+ 
+ screenshot handles
+ 
+ screenshot network
+ 
+ 
+Locate CTNNB1, use the "First neighbors of selected nodes" icon (has the shape of 2 houses) in the toolbar to highlight genes connected to CTNNB1 and create a subnetwork. How many nodes do contain this subnetwork?
+
+![subnetwork.png](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/IN_subnetwork.png?raw=true)
 
 ![subnetwork2.png](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/IN_subnetwork2.png?raw=true)
 
