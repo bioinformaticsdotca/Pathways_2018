@@ -205,7 +205,7 @@ File provided: [STAD_MutSig.txt](https://github.com/bioinformaticsdotca/Pathways
 
 **Goal**: familiarize yourself with ReactomeFI  and GeneMANIA.
 
-## PART 1
+## PART 1: ReactomeFI
 
 Create a network using ReactomeFI. 
 
@@ -238,18 +238,26 @@ Hint:select the pathway in the table, that should highlight the genes in yellow.
 
 ![reactomeFI_viz_input.png](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/INAPart2_5.png?raw=true)
 
-## PART 2
+## PART 2: GeneMANIA
 
 Use the same mutation data  [STAD_MutSig.txt](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/integrated_assignment_1/STAD_MutSig.txt) to create a network using GeneMANIA in order to visualize which genes are known to physically interact with each other.
 
-1. Create the network
- * In Cytoscape , open the GeneMANIA app and select 'GeneMANIA Local Search'. Copy and paste the MutSig genes in the 'Genes of Interest' field.
- * In Advanced Options, select only 'Physical interactions' as 'Interaction Networks' and set 0 in the "Find the top" 0 "related genes".
- * Click on 'Start'.
+Install the latest version of the Cytoscape GeneMANIA app (Version 3.5.0)
+ * Go the Cytoscape menu bar and select Apps, App Manager... . In the App Manager dialog box, go to the 'Check for Updates' tab and update GeneMANIA if necessary. Note: if the 'Check for Updates' tab is blank, it means that you have installed the most recent versions of all apps.
+ 
 
-!Warnings: 
- * Use the GeneMANIA Cytoscape app for this exercise. If you use it for the first time and you haven't installed data as it was said in the installation instructions, only install "CORE" data as the full data may take 1 hour to download. 
- * The network may look slightly different compared to below screenshot if the underlying database has been updated since the screenshot was taken.
+1. Create the network
+
+ * In Cytoscape, go to Control Panel and locate the GeneMANIA search bar and make sure that the model organism is set to Homo sapiens.
+ 
+ screenshot.
+ 
+  * Copy and paste the gene list [STAD_MutSig.txt](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/integrated_assignment_1/STAD_MutSig.txt) in the field. 
+  
+   * Locate the option menu at the right side of the field and select only 'Physical interactions' as 'Interaction Networks' and set 0 to the 'Max Resultant Genes'.
+   
+  * Launch the search.
+
 
 ![genemania_input.png](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/IN_genemania_input.png?raw=true)
 
@@ -278,6 +286,16 @@ Use the same mutation data  [STAD_MutSig.txt](https://github.com/bioinformaticsd
 ![subnetwork.png](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/IN_subnetwork.png?raw=true)
 
 ![subnetwork2.png](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/IN_subnetwork2.png?raw=true)
+
+
+---
+ * In Cytoscape , open the GeneMANIA app and select 'GeneMANIA Local Search'. Copy and paste the MutSig genes in the 'Genes of Interest' field.
+ * In Advanced Options, select only 'Physical interactions' as 'Interaction Networks' and set 0 in the "Find the top" 0 "related genes".
+ * Click on 'Start'.
+
+!Warnings: 
+ * Use the GeneMANIA Cytoscape app for this exercise. If you use it for the first time and you haven't installed data as it was said in the installation instructions, only install "CORE" data as the full data may take 1 hour to download. 
+ * The network may look slightly different compared to below screenshot if the underlying database has been updated since the screenshot was taken.
 
 --
 
