@@ -258,7 +258,6 @@ Install the latest version of the Cytoscape GeneMANIA app (Version 3.5.0)
 ![IAgenemaniasearch.png ](https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/integrated_assignment_1/IAgenemaniasearch.png?raw=true)
 
 
-![genemania_input.png](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/IN_genemania_input.png?raw=true)
 
 ![genemania_output.png](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/IN_genemania_output.png?raw=true)
 
@@ -288,6 +287,8 @@ Install the latest version of the Cytoscape GeneMANIA app (Version 3.5.0)
 
 
 ---
+Optional: Launch a GeneMANIA search using the "Local Search" option (for big networks)
+
  * In Cytoscape , open the GeneMANIA app and select 'GeneMANIA Local Search'. Copy and paste the MutSig genes in the 'Genes of Interest' field.
  * In Advanced Options, select only 'Physical interactions' as 'Interaction Networks' and set 0 in the "Find the top" 0 "related genes".
  * Click on 'Start'.
@@ -295,6 +296,8 @@ Install the latest version of the Cytoscape GeneMANIA app (Version 3.5.0)
 !Warnings: 
  * Use the GeneMANIA Cytoscape app for this exercise. If you use it for the first time and you haven't installed data as it was said in the installation instructions, only install "CORE" data as the full data may take 1 hour to download. 
  * The network may look slightly different compared to below screenshot if the underlying database has been updated since the screenshot was taken.
+ 
+ ![genemania_input.png](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/IN_genemania_input.png?raw=true)
 
 --
 
