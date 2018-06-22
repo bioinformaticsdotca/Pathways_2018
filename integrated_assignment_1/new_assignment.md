@@ -288,7 +288,7 @@ Hint: you can click on a function of your choice to see corresponding nodes high
 
 ![IAgenemania2.png](https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/integrated_assignment_1/IAgenemania3.png?raw=true)
 
-Note: on the above the screenshot, the CCBN1 color of the edges were changed by bypassing the style (select the edges, right click, edit, ByPAss Syle, Set Bypass to Selected Edges , change color in Byp. column)
+Note: on the above the screenshot, the CCBN1 color of the edges were changed by bypassing the style (select the edges, right click, edit, ByPass Style, Set Bypass to Selected Edges , change color in Byp. column)
 
 ---
 
