@@ -258,23 +258,26 @@ Install the latest version of the Cytoscape GeneMANIA app (Version 3.5.0)
 ![IAgenemaniasearch.png ](https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/integrated_assignment_1/IAgenemaniasearch2.png?raw=true)
 
 Screenshot of the output:
+
+
 ![genemania_output.png](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/IN_genemania_output.png?raw=true)
 
 2. Explore the functions in the GeneMANIA Results Panel.
+ * Go to 'Results Panel' located at the right side and select the GeneMANIA tab. Choose the 'Functions' tab to visualize the list of enriched GO gene-sets. **Question** Can you see which genes are included in these gene-sets?
+Hint: you can click on a function of your choice to see corresponding nodes highlighted in yellow. 
 
 3. Improve the visual style:
 
  * Color nodes by function. 
-   * In Control Panel, select the 'Node' tab.
-   * Expand the 'Fill Color' tab using the down arrow and set the 'Column' to 'annotation name' which is the top field (/!\ not 'annotations'). Select 1 annotation of your choice by clicking on the white space and choose a color. Repeat for 2 annotation names. For the current example, we have selected 'BMP signaling pathway', 'Notch signaling pathway' and'Wnt signaling pathway'. Hint: the annotation names are displayed in alphabetical order. 
+   * In Control Panel, select the 'Style' tab and go to the 'Node' panel.
+   * Expand the 'Fill Color' field using the down arrow and set 'Column' to 'annotation name' which is the top field (/!\ not 'annotations'). Select one annotation of your choice by clicking on the white space and choose a color. Repeat for 2 annotation names. For the current example, we have selected 'BMP signaling pathway', 'Notch signaling pathway' and'Wnt signaling pathway'. Hint: the annotation names are displayed in alphabetical order. 
  
+ * Edge width (optional). In Control Panel, go to the 'Edge' panel. Expand the 'Width' field using the down arrow. A grah is displayed. Double click on the graph to select it and move the left and right handles up. Look at the changes on the network (suggested values are approximately 7 for the left handle and approximately 18 for the right handle). Click on OK.
+ 
+![IAgenemaniasearch.png ](https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/integrated_assignment_1/IAgenemaniahandle.png?raw=true)
 
- * Edge width (optional). In Control Panel, go to the 'Edge' panel. Expand the 'Width' field using the down arrow. A grah is displayed. Double click on the graph to select it and move the left and right handles up. Look at the changes on the network (suggested values are 7 for the left handle and 18 for the right handle). Click on OK.
- 
- screenshot handles
- 
- screenshot network
- 
+![IAgenemaniasearch.png ](https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/integrated_assignment_1/IAgenemania2.png?raw=true)
+
 4. Create a subnetwork containing CTNNB1 and connected genes
  * Locate CTNNB1, use the "First neighbors of selected nodes" icon (has the shape of 2 houses) in the toolbar to highlight genes connected to CTNNB1 
  * Create a subnetwork using the approriate icon. 
