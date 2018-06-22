@@ -215,9 +215,7 @@ Create a network using ReactomeFI.
 
 ![reactomeFI_viz_input.png](https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/integrated_assignment_1/IA_reactome1.png?raw=true)
 
-
  /!\ : the latest interface contains 2016 version of the ReactomeFI underlying database but this exercise has been prepared with the 2015 version. Please use the 2015 version to complete this exercise but the most up to date version when you work with your own data. 
-![reactomeFI_viz_input.png](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/INAPart2_1.png?raw=true)
 
  * tip: upload your file or copy and paste the gene names in the gene set field.
  
@@ -225,16 +223,18 @@ Create a network using ReactomeFI.
 
 4. Fetch FI annotation (Hint: right click on a blank space, Reactome FI, Fetch FI Annotations). You should see arrows (directed graph).
 
-5. Run Pathway enrichment (Hint: right click on the network panel and follow the path showed below). **Question** What is the pathway with the lowest (best) FDR?
+5. Run Pathway enrichment (Hint: right click on the network panel and follow the path showed below). 
+**Question** What is the pathway with the lowest (best) FDR?
 
 6. Do a subnetwork of ErbB signaling pathway (K)
 
-Hint:select the pathway in the table, that should highlight the genes in yellow. Use the subnetwork icon () on the tool bar to create it ("New network from selection").
+Hint:select the pathway in the table, that should highlight the genes in yellow. Use the subnetwork icon on the Cytoscape tool bar to create it ("New network from selection").
 
 ![reactomeFI_viz_input.png](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/INAPart2_3.png?raw=true)
 ![reactomeFI_viz_input.png](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/INAPart2_4.png?raw=true)
 
-7. Cluster the network and perform pathway enrichment on the network. **Questions** How many clusters did the analysis retrieve?  What is the FDR value of the most significant pathway of module 0
+7. Cluster the network and perform pathway enrichment on the network. 
+**Questions** How many clusters did the analysis retrieve?  What is the FDR value of the most significant pathway of module 0
 
 ![reactomeFI_viz_input.png](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/INAPart2_5.png?raw=true)
 
