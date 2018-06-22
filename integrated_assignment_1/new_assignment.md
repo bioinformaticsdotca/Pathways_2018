@@ -324,6 +324,10 @@ STRING (Search Tool for the Retrieval of Interacting Genes/Proteins) is a biolog
  *  Click the "Search Network" button
  *  Explore the network!
  
+  ![string.png](https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/integrated_assignment_1/stringinput.png?raw=true)
+
+ 
+ 
  ![string.png](https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/integrated_assignment_1/string.png?raw=true)
 
  
