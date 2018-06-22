@@ -274,19 +274,16 @@ Hint: you can click on a function of your choice to see corresponding nodes high
  
  * Edge width (optional). In Control Panel, go to the 'Edge' panel. Expand the 'Width' field using the down arrow. A grah is displayed. Double click on the graph to select it and move the left and right handles up. Look at the changes on the network (suggested values are approximately 7 for the left handle and approximately 18 for the right handle). Click on OK.
  
-![IAgenemaniasearch.png ](https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/integrated_assignment_1/IAgenemaniahandle.png?raw=true)
+![IAgenemaniahandle.png](https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/integrated_assignment_1/IAgenemaniahandle.png?raw=true)
 
-![IAgenemaniasearch.png ](https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/integrated_assignment_1/IAgenemania2.png?raw=true)
+![IAgenemania1.png](https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/integrated_assignment_1/IAgenemania1.png?raw=true)
 
 4. Create a subnetwork containing CTNNB1 and connected genes
  * Locate CTNNB1, use the "First neighbors of selected nodes" icon (has the shape of 2 houses) in the toolbar to highlight genes connected to CTNNB1 
  * Create a subnetwork using the approriate icon. 
  * How many nodes do contain this subnetwork? Hint: Go to Control Panel, Network and look at the number of nodes corresponding to your subnetwork. 
 
-![subnetwork.png](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/IN_subnetwork.png?raw=true)
-
-![subnetwork2.png](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/IN_subnetwork2.png?raw=true)
-
+![IAgenemania2.png](https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/integrated_assignment_1/IAgenemania2.png?raw=true)
 
 ---
 Optional: Launch a GeneMANIA search using the "Local Search" option (for big networks)
