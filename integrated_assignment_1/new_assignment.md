@@ -254,6 +254,11 @@ Install the latest version of the Cytoscape GeneMANIA app (Version 3.5.0)
  *  Copy and paste the gene list [STAD_MutSig.txt](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/integrated_assignment_1/STAD_MutSig.txt) in the field. 
  * Locate the "More Options..." button at the right side of the field and only select  'Physical interactions' as 'Interaction Networks' and set 0 to the 'Max Resultant Genes'. 
  * Click the "Search Network" button
+ 
+ 
+  *  Note: The network may look slightly different compared to below screenshot if the underlying database has been updated since the screenshot was taken.
+ 
+ 
 
 ![IAgenemaniasearch.png ](https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/integrated_assignment_1/IAgenemaniasearch2.png?raw=true)
 
@@ -293,19 +298,38 @@ Note: on the above the screenshot, the CCBN1 color of the edges were changed by 
 ---
 
 
-Optional: Launch a GeneMANIA search using the "Local Search" option (for big networks)
+Optional part 1: Launch a GeneMANIA search using the "Local Search" option (for big networks)
 
  * In Cytoscape , open the GeneMANIA app and select 'GeneMANIA Local Search'. Copy and paste the MutSig genes in the 'Genes of Interest' field.
  * In Advanced Options, select only 'Physical interactions' as 'Interaction Networks' and set 0 in the "Find the top" 0 "related genes".
  * Click on 'Start'.
 
 !Warnings: 
- * Use the GeneMANIA Cytoscape app for this exercise. If you use it for the first time and you haven't installed data as it was said in the installation instructions, only install "CORE" data as the full data may take 1 hour to download. 
- * The network may look slightly different compared to below screenshot if the underlying database has been updated since the screenshot was taken.
+ * If you use it for the first time and you haven't installed data as it was said in the installation instructions, only install "CORE" data as the full data may take 1 hour to download. 
  
- ![genemania_input.png](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/IN_genemania_input.png?raw=true)
+ Note: There are 2 ways to perform a GeneMANIA search. The first option using the Network search bar from the Control Panel is doing a seach by calling and connecting the GeneMANIA server (same as the website:https://genemania.org/). The other option as just showed here is to select GeneMANIA from the Apps menu and click on 'Local Search...'. This option will use a database that is installed locally on your computer when you first use GeneMANIA. As it does not imply any connection to the server, this option is the best choice for large query, e.g input gene list size greater than 100 or resulting network containing more than 200 nodes.
 
+ ![genemania_input.png](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/IN_genemania_input.png?raw=true)
+ 
+The network and predicted functions should be the same as the ones obtained in part 2. Feel free to explore the network or follow the same steps as part 2.  
+
+---
+Optional part 2: Use STRING from the Network Search Bar
+
+STRING (Search Tool for the Retrieval of Interacting Genes/Proteins) is a biological database and web resource of known and predicted protein–protein interactions.
+
+ *  In Cytoscape, go to Control Panel and locate and select the Network Tab in the Control Panel
+ *  Make sure 'STRING protein query' is selected in the Network Search Bar.
+ *  Type CTNNB1 in the search field.
+ *  Click the "Search Network" button
+ *  Explore the network!
+ 
+ ![string.png](https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/integrated_assignment_1/string.png?raw=true)
+
+ 
 --
+
+
 
 Congratulations!  You have reached the end of the integrated assignment.
 
