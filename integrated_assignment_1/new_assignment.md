@@ -248,16 +248,16 @@ Install the latest version of the Cytoscape GeneMANIA app (Version 3.5.0)
 
 1. Create the network
 
- * In Cytoscape, go to Control Panel and locate the GeneMANIA search bar and make sure that the model organism is set to Homo sapiens.
- 
+ * In Cytoscape, go to Control Panel and locate and select the Network Tab in the Control Panel
+ *  Make sure the GeneMANIA search provider is selected in the Network Search Bar.
+ *  Choose Homo sapiens from the list of supported organisms
+ *  Copy and paste the gene list [STAD_MutSig.txt](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/integrated_assignment_1/STAD_MutSig.txt) in the field. 
+ * Locate the "More Options..." button at the right side of the field and only select  'Physical interactions' as 'Interaction Networks' and set 0 to the 'Max Resultant Genes'. 
+ * Click the "Search Network" button
+
+
  screenshot.
  
-  * Copy and paste the gene list [STAD_MutSig.txt](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/integrated_assignment_1/STAD_MutSig.txt) in the field. 
-  
-   * Locate the option menu at the right side of the field and select only 'Physical interactions' as 'Interaction Networks' and set 0 to the 'Max Resultant Genes'.
-   
-  * Launch the search.
-
 
 ![genemania_input.png](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/IN_genemania_input.png?raw=true)
 
