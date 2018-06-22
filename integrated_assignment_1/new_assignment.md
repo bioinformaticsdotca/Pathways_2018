@@ -41,7 +41,7 @@ The Affymetrix data are stored in the Gene Expression Omnibus (GEO) repository u
 
 For g:Profiler, genes with a FDR equal or less than 0.0001 and a logFC of 2 were retrieved and stored in a text file. For GSEA, a rank file has been created by ranking the genes from the highest t statistics value (up-regulated in BE compared to NE) to the lowest t values (down-regulated in BE compared to NE). The code used to process the data is available from the [course page](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/integrated_assignment_1/code_integrated_assignment_BEvsNE.R). Please feel free to adapt it and use it with your own data.
 
-## PART 1
+## PART 1: run g:Profiler
 
 1.  Open g:Profiler
 
@@ -59,11 +59,11 @@ For g:Profiler, genes with a FDR equal or less than 0.0001 and a logFC of 2 were
 
 8.  **Question:** Is this p-value already corrected for multiple hypothesis testing? What type of correction is used for your current analysis?
 
-## PART 2
+## PART 2: run g:Profiler p-value
 
 1.  Re-run the analysis with *User p-value* threshold set to 0.0001. **Question:** What has been changed?
 
-## PART 3
+## PART 3: run g:Profiler ordered query
 
 An important feature of g:Profiler is an ability to work with sorted or ranked lists. The top of such a list is given more weight in determining the functional connections to GO:terms and/or pathways (minimum hypergeometric test). Our gene list was initially sorted based on significance (FDR) in an increasing order (most significant genes (smallest FDR) at the top of the list).
 
@@ -73,17 +73,17 @@ An important feature of g:Profiler is an ability to work with sorted or ranked l
 
 3. **Question:**  Do you seen any changes in the output in comparison to the analysis of the unordered gene list (PART 2)?
 
-## PART 4
+## PART 4: save as Generic Enrichment Map output (BE)
 
 Now we have to generate an output from the enrichment analysis and save it in appropriate format for EnrichmentMap. Please, change the output type to *Generic Enrichment Map (TAB)*.
 
 Run it using options used in PART 3. Download data in Generic EnrichmentMap (GEM) format and save it on your computer. We will need this file to create an enrichment map.
 
-## PART 5
+## PART 5: save as Generic Enrichment Map output (NE)
 
 Generate and save the Generic EnrichmentMap for genes in [NConly_genelist.txt](https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/integrated_assignment_1/NEonly_genelist.txt). It contains the genes specific of the normal tissue samples. Run g:Profiler with this list using same options as in PART 4 selecting Generic Enrichment Map (GEM) format as output type. We will need this file for EnrichmentMap.
 
-## PART 6
+## PART 6: create an enrichment map
 
 Create an enrichment map to visualize the outputs from g:Profiler. Let's create an EnrichmentMap for the pathways that were enriched by the genes specific of the BE samples and one for the genes specific of the NE samples. 
 
@@ -131,7 +131,7 @@ Note: you also could create and upload an expression file when you build the enr
 Optional: when you build the enrichment map using the g:Profiler results, you have the option to upload a .gmt file (downloaded from the g:Profiler website) [hsapiens.pathways.NAME.gmt](https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/integrated_assignment_1/hsapiens.pathways.NAME.gmt)
 and an expression file [BE_vs_NE_expression.txt](https://github.com/bioinformatics-ca/bioinformatics-ca.github.io/raw/master/2016_workshops/pathways/integrated_assignment_1/BE_vs_NE_expression.txt). The .gmt file provides the advantage to show not only the genes that are in your gene list and the enriched pathway (selected node) but all the genes in the original pathway. The expression file will be displayed in the EM Heat Map when a node is selected and it will display expression values for each gene in the selected pathway (selected node). Try it and adapt it to your needs. 
 
-## PART 7: GSEA
+## PART 7: GSEA (run and create an enrichment map)
 
 1. Launch GSEA.
 
@@ -298,7 +298,7 @@ Note: on the above the screenshot, the CCBN1 color of the edges were changed by 
 ---
 
 
-Optional part 1: Launch a GeneMANIA search using the "Local Search" option (for big networks)
+**Optional part 1: Launch a GeneMANIA search using the "Local Search" option (for big networks)**
 
  * In Cytoscape , open the GeneMANIA app and select 'GeneMANIA Local Search'. Copy and paste the MutSig genes in the 'Genes of Interest' field.
  * In Advanced Options, select only 'Physical interactions' as 'Interaction Networks' and set 0 in the "Find the top" 0 "related genes".
@@ -314,7 +314,7 @@ Optional part 1: Launch a GeneMANIA search using the "Local Search" option (for 
 The network and predicted functions should be the same as the ones obtained in part 2. Feel free to explore the network or follow the same steps as part 2.  
 
 ---
-Optional part 2: Use STRING from the Network Search Bar
+**Optional part 2: Use STRING from the Network Search Bar**
 
 STRING (Search Tool for the Retrieval of Interacting Genes/Proteins) is a biological database and web resource of known and predicted protein–protein interactions.
 
