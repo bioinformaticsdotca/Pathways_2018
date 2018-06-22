@@ -255,7 +255,7 @@ Install the latest version of the Cytoscape GeneMANIA app (Version 3.5.0)
  * Locate the "More Options..." button at the right side of the field and only select  'Physical interactions' as 'Interaction Networks' and set 0 to the 'Max Resultant Genes'. 
  * Click the "Search Network" button
 
-![IAgenemaniasearch.png ](https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/integrated_assignment_1/IAgenemaniasearch.png?raw=true)
+![IAgenemaniasearch.png ](https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/integrated_assignment_1/IAgenemaniasearch2.png?raw=true)
 
 Screenshot of the output:
 ![genemania_output.png](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/IN_genemania_output.png?raw=true)
