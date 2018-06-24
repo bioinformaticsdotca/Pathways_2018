@@ -7,116 +7,115 @@ header2: Pathways and Network Analysis of -Omics Data 2018
 image: /site_images/CBW_pathway_icon.jpg
 keywords: Gene lists, predict gene function, identify master regulators
 description: Course covers the bioinformatics concepts and tools available for interpreting a gene list using pathway and network information. 
-intructors: Gary Bader, Veronique Voisin, Lincoln Stein, Robin Haw, Micheal Hoffman
+intructors: Gary Bader, Veronique Voisin, Lincoln Stein, Robin Haw, Micheal Hoffman, Sara Mostafavi
 length: 3 days
 ---
 # Welcome <a id="welcome"></a>
 
 Welcome to Pathways and Network Analysis of -Omics Data 2018.  
 
-## Read these before coming to the workshop:
+The course schedule can be found [here](https://bioinformaticsdotca.github.io/pathways_2018_schedule).
 
-* [iRegulon: From a Gene List to a Gene Regulatory Network Using Large Motif and Track Collections](http://www.ncbi.nlm.nih.gov/pubmed/25058159)
+Pre-readings, pre-work, and laptop setup instructions can be found [here](https://bioinformaticsdotca.github.io/pathways_2018_prework).<a id="preworkshop"></a>  
+
+We are using Google Classroom for discussion. Join the Class at https://classroom.google.com, select the "+" symbol in the upper right corner, click on "Join Class" and enter the class code provided to you.
+
+The full course notes are available as a [single PDF]().  
+
+***
+***  
+
+# Day 1 <a id="day1"></a>
+
+##  Welcome 
+
+  *<font color="#827e9c">Ann Meyer</font>* 
+
+##  Module 1: Introduction to Pathway and Network Analysis 
+
+  *<font color="#827e9c">Gary Bader</font>*
   
-* [The GeneMANIA prediction server: biological network integration for gene prioritization and predicting gene function](http://www.ncbi.nlm.nih.gov/pubmed/20576703)
+  [Lecture]()   
+    
+##  Module 2 Finding Over-Represented Pathways 
+
+  *<font color="#827e9c">Veronique Voisin</font>*
   
-* [GeneMANIA Prediction Server 2013 Update](http://www.ncbi.nlm.nih.gov/pubmed/23794635)
+  [Lecture]()    
+
+[Introduction to practical lab]()  
+
+[Lab practical part 1 (g:Profiler)](http://bioinformaticsdotca.github.io/pathways_2018_module2_lab_1)    
+
+[Lab practical part 2 (GSEA)](http://bioinformaticsdotca.github.io/pathways_2018_module2_lab_2)    
   
-* [How to visually interpret biological data using networks](http://www.ncbi.nlm.nih.gov/pubmed/19816451)
+## Module 3: Network Visualization and Analysis with Cytoscape 
+
+ *<font color="#827e9c">Gary Bader</font>*  
   
-* [g:Profiler--a web-based toolset for functional profiling of gene lists from large-scale experiments](http://www.ncbi.nlm.nih.gov/pubmed/17478515)
-  
-* [g:Profiler--a web server for functional interpretation of gene lists (2011 update)](http://www.ncbi.nlm.nih.gov/pubmed/21646343)
-  
-* [Gene set enrichment analysis: a knowledge-based approach for interpreting genome-wide expression profiles](http://www.ncbi.nlm.nih.gov/pubmed/16199517)
-  
-* [Expression data analysis with reactome](http://www.ncbi.nlm.nih.gov/pubmed/25754994)  
-
-# Do these before coming to the workshop:
-
-1) [Sequencing Terminology](http://www.ncbi.nlm.nih.gov/projects/genome/glossary.shtml)
-
-2)  **Cytoscape Preparation tutorials**: Complete the [introductory tutorial to Cytoscape](http://opentutorials.cgl.ucsf.edu/index.php/Portal:Cytoscape3)
-
-* Introduction to Cytoscape3 - User Interface
-
-* Introduction to Cytoscape3 - Welcome Screen
-
-* Filtering and Editing in Cytoscape 3
-
-## Install these before coming to the workshop:
-
-1) A robust text editor.   
-
-* For Windows/PC - [notepad++](http://notepad-plus-plus.org/)  
-* For Linux - [gEdit](http://projects.gnome.org/gedit/)  
-* For Mac – [TextWrangler](http://www.barebones.com/products/textwrangler/download.html)
-
-2) A file decompression tool.  
-
-* For Windows/PC – [7zip](http://www.7-zip.org/).  
-* For Linux – [gzip](http://www.gzip.org).   
-* For Mac – already there.
-
-3) A robust internet browser such as Firefox or Safari (Internet Explorer and Chrome are not recommended because of Java issues).
-
-4) Java -The visualization program that we will be using (IGV) requires Java. Check if you have Java installed: https://www.java.com/verify/ and download Java if you do not have it installed (Java 8).
-
-5) A PDF viewer (Adobe Acrobat or equivalent).
-
-6) Install [Cytoscape 3.6.1](http://chianti.ucsd.edu/cytoscape-3.6.1/).  
-
-Choose the version corresponding to your operating system (OS, Windows or UNIX) 
-Cytoscape requires Java8: check your version at  https://www.java.com/verify/ and download Java8 if you do not have it installed. Contact your system administrator if you have trouble with Java installation. 
-
-7) Within the Cytoscape program, install the following Cytoscape apps.  
-
-From the menu bar, select ‘Apps’ , ‘Manage Apps’.
+ [Lecture part 1]()  
+    
+ [Lecture part 2]() 
  
-Within all apps, search for the following and install:  
-
- * EnrichmentMap 
- * EnrichmentMap Pipeline Collection (it will install ClusterMaker2, WordCloud and AutoAnnotate) 
- * GeneMania 
- * Iregulon  
- * ReactomeFIPlugin - http://apps.cytoscape.org/apps/reactomefiplugin  
+ *<font color="#827e9c">Veronique Voisin</font>*  
  
- 
-8) Install the data set within GeneMANIA.
+[Lab practical part 1](http://bioinformaticsdotca.github.io/pathways_2018_module3_lab_1)   
 
-Select GeneMania from Apps Manager and Choose Another Data Set.  
-From the list of available data sets, select the most recent (2017-03-17 / 17 March 2017) and under ‘Include only these networks’: select ‘all’. Click on ‘Download’.  
-An ‘Install Window’ will pop-up. Select H.Sapiens Human. Click on ‘Install’.  
-This requires time and a good network connection to download completely, so be patient (around 15mins).  
+[Lab practical part 2](http://bioinformaticsdotca.github.io/pathways_2018_module3_lab_2)  
 
+
+# Day 2 <a id="day2"></a>
+
+##  Module 4: More Depth on Network and Pathway Analysis 
+
+  *<font color="#827e9c">Lincoln Stein and Robin Haw</font>*
   
-9) Install GSEA.  
+  [Lecture]()   
+  
+  [Lab Lecture]()
+  
+  [Lab practical](http://bioinformaticsdotca.github.io/pathways_2018_module4_lab)
 
-Go to the [GSEA page](http://www.broadinstitute.org/gsea/index.jsp)    
-Register  
-Login  
-In menu, choose Downloads  
-Go to the javaGSEA Java Jar file section and download the gsea2-2.2.4.jar file and save in your Documents folder (do not leave it in the “Downloads”folder).  
- 
-To run GSEA during the workshop, you must use the command line. You will need to open a terminal and execute the install commands. Since we will need to run GSEA this same way each time, it will be a good idea to save this information on how to run GSEA.
- 
-**MAC/Linux Computer** 
 
-* On a MAC, the Terminal window is located in Applications/Utilities. Tip: add the terminal window to your dock so it is easy to open when needed.  
-* At the prompt, type the command in your terminal window and hit enter:
+##  Module 5: Gene Function Prediction  
 
-```
-java -Xmx2G -jar ~/Documents/gsea2-2.2.4.jar
-```
+  *<font color="#827e9c">Sara Mostafavi</font>*
+  
+  [Lecture]()  
+  
+  [Lab practical](http://bioinformaticsdotca.github.io/pathways_2018_module5)  
+  
 
-**PC/Windows Computer** 
+# Day 3 <a id="day3"></a>
 
-* On Windows, go to the start icon and type cmd (for command prompt) in the search box.  
-* At the prompt, type the following commands, hitting enter in between each command and waiting for the prompt before the next command:
+## Module 6: Regulatory Network Analysis 
 
-```
-cd Documents
-java -Xmx2G -jar gsea2-2.2.4.jar
-```
+*<font color="#827e9c">Michael Hoffman</font>*
+  
+  [Lecture]()  
+  
+  [Lab lecture]()  
+  
+  [Lab practical](http://bioinformaticsdotca.github.io/pathways_2018_module6) 
 
-Please note that these instructions may change before the workshop.  
+## Final Thoughts  
+
+*<font color="#827e9c">Veronique Voisin</font>*   
+
+[Lecture]()  
+
+[Tools and workflows](http://bioinformaticsdotca.github.io/pathways_2018_tools_and_workflows)  
+
+## Integrated Assignment
+
+[Assignment link](http://bioinformaticsdotca.github.io/pathways_2018_IA) 
+
+[gProfiler file](https://github.com/bioinformaticsdotca/Pathways_2017/raw/master/integrated_assignment_1/hsapiens.pathways.NAME.gmt)  
+
+[Assignment answers link](http://bioinformaticsdotca.github.io/pathways_2018_IA_answers) 
+
+***
+
+Thank you for attending the Pathway and Network Analysis of Omics Data workshop! Help us make this workshop better by filling out [our survey]().
+
+*** 
