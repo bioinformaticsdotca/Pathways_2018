@@ -104,36 +104,29 @@ Create an enrichment map
 
 2b. Specify the following parameters:
 
-*	in *Name*: "GSEAmap"
+*	*Name*: leave default or a name of your choice like "GSEAmap"
 
-*	in *Analysis Type*: make sure that GSEA is set
+*	*Analysis Type*:  GSEA
 
-* in *Enrichments Pos*:
+* *Enrichments Pos*: gsea_report_for_na_pos_1453222854028.xls
 
-   *	GMT :  load results files by clicking on the respective (...) button and selecting the Human_GOBP_AllPathways_no_GO_iea_December_24_2015_symbol.gmt file in the dialog.
+* *Enrichments Ned*: gsea_report_for_na_neg_1453222854028.xls
+
+*	*GMT* : Human_GOBP_AllPathways_no_GO_iea_December_24_2015_symbol.gmt
+
+*	*Ranks*: MesenchymalvsImmunoreactive_edger_ranks.rnk
+
+*	*Expressions* : MesenchymalvsImmunoreactive_rnaseq_expression.txt. TIP: this field is optional but recommended
    
-   *	Expression : MesenchymalvsImmunoreactive_RNSseq_expression.txt. TIP: This field is optional but recommended
-   
-   *	Enrichments 1 : gsea_report_for_na_pos_1453222854028.xls
-   
-   *	Enrichments 2 : gsea_report_for_na_neg_1453222854028.xls
+*	*Classes*: MesenchymalvsImmunoreactive_rnaseq_classes.cls Tip: this field is optional.
 
-* in *Advanced*:
-   *	Ranks: MesenchymalvsImmunoreactive_edger_ranks.rnk
-   *	Classes: MesenchymalvsImmunoreactive_rnaseq_classes.cls Tip: this field is optional but recommended.
-   *	Phenotypes: In the text boxes replace *UP* with *Mesenchymal* and *DOWN* with *Immunoreactive*. Mesenchymal will be associated with red nodes because it corresponds to the positive phenotype and Immunoreactive will be associated with the blue nodes because it corresponds to the negative phenotype.
+*	Phenotypes: In the text boxes place *Mesenchymal*  as the Positive phenotype *Immunoreactive* as the Negative phenotype. Mesenchymal will be associated with red nodes because it corresponds to the positive phenotype and Immunoreactive will be associated with the blue nodes because it corresponds to the negative phenotype.
 
-*	in *Parameters*
-   *	set P-Value Cutoff to 1 (= we are not using the pvalue as a selection criterion)
-   *	set FDR Q-value cut off to 0.0001 (= only gene-sets significantly enriched at a value of 0.0001 or less will be displayed on the map). Tip: it will be displayed as  1E-04 in the scientific notation. 
-
-*	In *Similarity cutoff*
-   *	Select “Jaccard” similarity cutoff and set the value to 0.375 (it calculates the number of edges to be displayed). 
+ *	set FDR q-value cutoff to 0.0001 (= only gene-sets significantly enriched at a value of 0.0001 or less will be displayed on the map). Tip: it will be displayed as  1E-04 in the scientific notation. 
 
 2c. Click on *Build*
 
-
-<img src="https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/EM2.png?raw=true" alt="EM" width="750" />
+<img src="https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/EMinput2.png?raw=true" alt="EM" width="750" />
 
 Unformatted results:
 
