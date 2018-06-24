@@ -71,37 +71,34 @@ Launch Cytoscape and open Enrichment Map App
 
 <img src="https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/module3_lab/img/EM1.png?raw=true"  />
 
+ * A 'Create Enrichment Map' window is now opened.
 
 ## Step 2
 
-Create an EnrichmentMap
+Create an enrichment map
 
-2a. Locate the Control Panel on the left side of the window, select the *Enrichment Map input panel* to load enrichment results. 
+2a. In the 'Create Enrichment Map window' , click on the '+" plus sign to create a new data set.  
 
 2b. Specify the following parameters:
 
-*	in *Analysis Type* select *generic (ex:gProfiler)*
+*	Name: use default or choose a name of your choice like 'g:Profiler network'
 
-*	in *User Input* : (load results files by clicking on the respective (...) button and selecting the file)
+* Analysis Type: Generic/gProfiler
 
-  *	GMT - hsapiens.pathways.NAME.gmt.zip
-  *	Expression - MesenchymalvsImmunoreactive_RNSseq_expression.txt TIP: This field is optional but recommended
-  *	Enrichments - gprofiler_results_mesenchymal.txt TIP: only field that is not optional
+* Enrichments: gprofiler_results_mesenchymal.txt TIP: only field that is not optional
 
-*	In *Advanced* box:
+*	GMT : hsapiens.pathways.NAME.gmt.zip
 
-  *	Ranks - MesenchymalvsImmunoreactive_RNAseq_ranks.rnk TIP: This field is optional but recommended
+*	Ranks - MesenchymalvsImmunoreactive_RNAseq_ranks.rnk TIP: This field is optional but recommended
+
+*	Expressions - MesenchymalvsImmunoreactive_RNSseq_expression.txt TIP: This field is optional but recommended
+  
+ *	Classes - MesenchymalvsImmunoreactive_RNAseq_classes.cls TIP: This field is optional.
  
-  *	Classes - MesenchymalvsImmunoreactive_RNAseq_classes.cls TIP: This field is optional but recommended
- 	
-  *	Phenotype - In the text boxes replace *UP* with *Mesenchymal*. Mesenchymal will be associated with red nodes because it corresponds to the positive phenotype in the gprofiler_results_mesenonly_ordered.
+ *	Phenotype - In the text boxes replace *UP* with *Mesenchymal*. Mesenchymal will be associated with red nodes because it corresponds to the positive phenotype in the gprofiler_results_mesenonly_ordered.
 
-*	In the *Parameters* box:
-
-  *	Set Q-value cut off to 0.0001 TIP: to set threshold to very small numbers select Scientific Notation and set Q-value cut off to 1E-04
+  *	Set FDR q-value cutoff to 0.0001 TIP: to set threshold to very small numbers select Scientific Notation and set Q-value cut off to 1E-04
  
-  *	Select *Jaccard* similarity cutoff and set the value to 0.25 
-
 ![EM17](https://github.com/bioinformaticsdotca/Pathways_2017/blob/master/img/EM17.png?raw=true)
  
 2c. Click on *Build* button at the bottom of the Enrichment Map Input panel.
