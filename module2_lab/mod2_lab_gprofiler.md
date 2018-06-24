@@ -159,6 +159,8 @@ Option1: If time permits, play with input  parameters, e.g. add *TRANSFAC TFBS* 
 
 Option2: Re-run the g:Profiler using the "ordered" query checked. This will run the minimum hypergeometric test. When this option is checked, it assumes that the genes were preordered by significance with the most significant gene at the top of the list. Compare the results between "ordered" and non ordered query.
 
+Option3: Re-run g:Profiler and select Bonferonni as method to correct for multiple hypothesis testing and set the output to png. Do you get any significant results?
+
 TIP:Instead of using the g:Profiler website g:profiler can be run directly from R using the gProfilerR package. (See supplemental protocol at Protocol 1 - gProfiler from R for more details. 
 
 
