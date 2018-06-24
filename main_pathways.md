@@ -114,6 +114,16 @@ The full course notes are available as a [single PDF]().
 
 [Assignment answers link](http://bioinformaticsdotca.github.io/pathways_2018_IA_answers) 
 
+# Additional tutorials <a id="additionaltutorials"></a>
+
+EnerichmentMap (GSEA and g:Profiler) step by step protocol:
+https://www.biorxiv.org/content/early/2017/12/12/232835
+and https://github.com/BaderLab/Cytoscape_workflows
+
+Interacting with Cytoscape using CyRest and command lines (for advanced users):
+https://github.com/cytoscape/cytoscape-automation/blob/master/for-scripters/R/advanced-cancer-networks-and-data-rcy3.Rmd
+
+
 ***
 
 Thank you for attending the Pathway and Network Analysis of Omics Data workshop! Help us make this workshop better by filling out [our survey]().
