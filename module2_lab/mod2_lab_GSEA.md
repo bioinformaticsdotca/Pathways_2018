@@ -138,7 +138,7 @@ Specify the following parameters:
 	
 ![Gene sets database](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/ORA8.png?raw=true)
 
-*	*Human_GOBP_AllPathways_no_GO_iea_December_24_2015_symbol.gmt* is now visible in the field corresponding to Gene sets database.
+*	*Human_GOBP_AllPathways_no_GO_iea_December_24_2016_symbol.gmt* is now visible in the field corresponding to Gene sets database.
 
 ![Gene sets database](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/ORA9.png?raw=true)
 
