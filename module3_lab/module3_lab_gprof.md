@@ -98,7 +98,7 @@ Create an enrichment map
 
   *	Set FDR q-value cutoff to 0.0001 TIP: to set threshold to very small numbers select Scientific Notation and set Q-value cut off to 1E-04
  
-![EM17](https://github.com/bioinformaticsdotca/Pathways_2017/blob/master/img/EM17.png?raw=true)
+<img src="https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/module3_lab/img/EMgprofilerinput.png?raw=true"  />
  
 2c. Click on *Build* button at the bottom of the Enrichment Map Input panel.
 
