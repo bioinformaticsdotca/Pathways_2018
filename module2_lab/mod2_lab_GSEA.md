@@ -92,11 +92,11 @@ Load Data
 
 2a. Locate the ‘Load data’ icon at the upper left corner of the window and click on it.
 
-![Load data](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/ORA2.png?raw=true)
+![Load data](https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/module2_lab/img/GSEAloaddata.png?raw=true)
 
 2b. In the central panel, select ‘Method 1’ and ‘Browse for files’. A new window pops up.
 
-![Browse files](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/ORA3.png?raw=true)
+![Browse files](https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/module2_lab/img/GSEAbrowsefile.png?raw=true)
 
 2c. Browse your computer to locate the 2 files : *Human_GOBP_AllPathways_no_GO_iea_May_24_2016_symbol.gmt* and *MesenchymalvsImmunoreactive_edger_ranks.rnk*. 
 
