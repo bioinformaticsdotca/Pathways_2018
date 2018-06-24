@@ -160,18 +160,17 @@ Steps:
 
 For this example, you could use *Integrin signalling pathway*. 
 
-TIP: If you are unable to locate *Integrin signalling pathway*, type it in the search box.  Selected nodes appear yellow (or highlighted) in the network
+TIP: If you are unable to locate *Integrin signalling pathway*, type "Integrin signalling pathway" in the search box (quotes are important).  Selected nodes appear yellow (or highlighted) in the network.
 
-3e. In the Table Panel in the *Heat map (nodes)* tab change:
+3e. In the Table Panel in the * EM Heat map* tab change:
 
-* Normalization from "Data as is" to *Row Normalize Data*
+* Expressions: "Row Norm*
 
-*	Sorting from *Hierarchical clustering* to *GSEARanking-Dataset 1*
+* Compress: -None-
 
-
-<img src="https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/EM8.png?raw=true" alt="EM" width="750" />
+<img src="https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/module3_lab/img/EM8.png?raw=true" alt="EM" width="750" />
   
-Tip: Genes in the heatmap that are highlighted yellow represent genes part of the leading edge for this gene set, i.e. contributed the most to the enriched phenotype. Leading edge genes will only be highlighted if an individual node has been selected and the Enrichment Map was created from GSEA results.
+Tip: Genes in the heatmap that are highlighted yellowm (rank column)  represent genes part of the leading edge for this gene set, i.e. contributed the most to the enriched phenotype. Leading edge genes will only be highlighted if an individual node has been selected and the Enrichment Map was created from GSEA results. Troubleshooting: if you don't see the sort column highlighted in yellow, reselect the node of interest and click on the GSEARanking Data Set 1 text in the EM Heatmap tab.
 
 
 ### Step 4
