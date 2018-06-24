@@ -40,7 +40,7 @@ The data used in this exercise is gene expression data obtained from high throug
 
 ## Start the exercise
 
-To start the lab practical section, first download the files.
+To start the lab practical section, first create a gprofiler_files directoty on your computer and download it the files below.
 
 Four files are needed to create the enrichment map for this exercise (please download these files on your computer):
 
@@ -55,7 +55,7 @@ Classes: [MesenchymalvsImmunoreactive_RNAseq_classes.cls](https://github.com/bio
 Pathway database (.gmt): [hsapiens.pathways.NAME.gmt.zip](https://github.com/bioinformaticsdotca/Pathways_2017/blob/master/module3_lab/EM_gProfiler_data/hsapiens.pathways.NAME.gmt.zip)
 Download the file on your computer and unzip the .gmt file before using it. 
 
-Optional: you could use the g:Profiler result file and the .gmt file you have saved from module 2.
+Optional: you could use the g:Profiler result file and the .gmt file you have saved from module 2 but you may get slightly different results as the g:Profiler database has been updated since the creation of these files.
 
 ## Step 1
 
@@ -65,11 +65,12 @@ Launch Cytoscape and open Enrichment Map App
 
 1b. Open Enrichment Map App
 
-*	In the top menu bar:
+*	In the Cytoscape top menu bar:
 
-  *	Click on Apps -> Enrichment Map -> Create Enrichment Map
+  *	Click on Apps -> Enrichment Map
 
-![EM1](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/EM1.png?raw=true) 
+<img src="https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/module3_lab/img/EM1.png?raw=true"  />
+
 
 ## Step 2
 
