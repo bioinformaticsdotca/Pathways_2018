@@ -90,7 +90,7 @@ Launch Cytoscape and open EnrichmentMap App
 
    * Click on Apps -> EnrichmentMap 
  
-<img src="https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/EM1.png?raw=true" alt="EM" width="750" />
+<img src="https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/module3_lab/img/EM1.png?raw=true" alt="EM" width="750" />
 
 ### Step 2 
 
