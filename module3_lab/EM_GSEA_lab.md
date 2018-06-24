@@ -120,7 +120,7 @@ Create an enrichment map
    
 *	*Classes*: MesenchymalvsImmunoreactive_rnaseq_classes.cls Tip: this field is optional.
 
-*	Phenotypes: In the text boxes place *Mesenchymal*  as the Positive phenotype *Immunoreactive* as the Negative phenotype. Mesenchymal will be associated with red nodes because it corresponds to the positive phenotype and Immunoreactive will be associated with the blue nodes because it corresponds to the negative phenotype.
+*	*Phenotypes*: In the text boxes place *Mesenchymal*  as the Positive phenotype *Immunoreactive* as the Negative phenotype. Mesenchymal will be associated with red nodes because it corresponds to the positive phenotype and Immunoreactive will be associated with the blue nodes because it corresponds to the negative phenotype.
 
  *	set FDR q-value cutoff to 0.0001 (= only gene-sets significantly enriched at a value of 0.0001 or less will be displayed on the map). Tip: it will be displayed as  1E-04 in the scientific notation. 
 
