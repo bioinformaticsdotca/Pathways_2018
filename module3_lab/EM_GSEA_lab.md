@@ -92,17 +92,23 @@ Launch Cytoscape and open EnrichmentMap App
  
 <img src="https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/module3_lab/img/EM1.png?raw=true"  />
 
+A 'Create EnrichmentMap window is not opened.
+
 ### Step 2 
 
 Create an enrichment map
 
-2a. Locate the Control Panel on the left side of the window, select the *Enrichment Map input panel* to load enrichment results. 
+2a. In the 'Create EnrichmentMap' window, add a dataset of the GSEA type by clicking on the '+' plus sign.
+
+<img src="https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/module3_lab/img/EMinput.png?raw=true"  />
 
 2b. Specify the following parameters:
 
-*	in *Analysis Type* select *GSEA*
+*	in *Name*: "GSEAmap"
 
-*	in *User Input*:
+*	in *Analysis Type*: make sure that GSEA is set
+
+* in *Enrichments Pos*:
 
    *	GMT :  load results files by clicking on the respective (...) button and selecting the Human_GOBP_AllPathways_no_GO_iea_December_24_2015_symbol.gmt file in the dialog.
    
