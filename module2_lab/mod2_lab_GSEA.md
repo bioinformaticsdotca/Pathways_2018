@@ -116,7 +116,7 @@ Adjust parameters
 
 3a. Under the *Tools* menu select *GseaPreRanked*.
 
-![GseaPreRanked](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/ORA6.png?raw=true)
+![GseaPreRanked](https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/module2_lab/img/GSEAprerank.png?raw=true)
 
 3b. *Run GSEA on a Pre-Ranked gene list* tab will appear.
 
