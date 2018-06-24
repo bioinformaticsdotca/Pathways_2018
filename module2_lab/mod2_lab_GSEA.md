@@ -82,6 +82,9 @@ Launch GSEA.
 
 <img src="https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/launchGSEA3.png?raw=true" alt="Launch GSEA" width="750" />
 
+Note: GSEA has been updated to version 3.0: download the .jar file named gsea-3.0.jar and run this command:
+ * java -Xmx4G -jar gsea-3.0.jar
+
 ### Step 2.
 
 Load Data
