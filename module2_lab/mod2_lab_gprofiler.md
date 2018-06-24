@@ -111,6 +111,8 @@ TIP: If after clicking on *g:Profiler* button the analysis completes but there i
 
 ![Warning](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/ORA23.png?raw=true)
 
+![ambiguousmapping](https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/module2_lab/img/ambiguousgenes.png?raw=true)
+
 ### Step 6
 
 Download results file
@@ -147,7 +149,7 @@ Note: the p-value and FDR columns contain identical values because g:Profiler di
 
 Tip: we have downloaded the Generic Enrichment Map format because our goal is to create an Enrichment Map out of the g:Profiler results. If your aim is to have a quick look at the functions enriched in your gene list, you can use the default Graphical (PNG) output type. 
 
-![Explore](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/ORA25.png?raw=true)
+![results](https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/module2_lab/img/gprofilertable.png?raw=true)
 
 The term *extracellular matrix organization* coming from the Gene Ontology database (*GO:0030198*) is the most significant gene-set (=the lowest FDR value).  Many gene-sets from the top of this list are related to each other and have genes in common. 
 
