@@ -232,7 +232,7 @@ Important note: the Apps WordCloud, ClusterMaker and Autoannotate have to be ins
 In the case that an *AutoAnnotate* window pops up with the message *AutoAnnotate will manage all groups in this network view*, click *OK*.
   
 
-<img src="https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/EM13.png?raw=true" alt="EM" width="750" />
+<img src="https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/EM13.png?raw=true" alt="EM" width="350" />
 
 
 <img src="https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/EM14.png?raw=true" alt="EM" width="750" />
