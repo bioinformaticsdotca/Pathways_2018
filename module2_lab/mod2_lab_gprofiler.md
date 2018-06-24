@@ -26,7 +26,7 @@ The data used in this exercise is gene expression (transcriptomics) obtained fro
 
 #### How was the data processed?
 
-Gene expression from the TCGA Ovarian serous cystadenocarcinoma RNASeq V2 cohort was downloaded on 2015-05-22 from [cBioPortal for Cancer Genomics](http://www.cbioportal.org/data_sets.jsp). Differential expression for all genes between the mesenchymal and immunoreactive groups was estimated using [edgeR](http://www.ncbi.nlm.nih.gov/pubmed/19910308). Two gene lists were created by selecting that genes that were differentially expressed in the mesenchymal sugroup when compared to the immunoreactive subgroup.  The R code used to generate the data is included at the bottom of the document in the *Additional information* section (below the GSEA section). 
+Gene expression from the TCGA Ovarian serous cystadenocarcinoma RNASeq V2 cohort was downloaded on 2015-05-22 from [cBioPortal for Cancer Genomics](http://www.cbioportal.org/data_sets.jsp). Differential expression for all genes between the mesenchymal and immunoreactive groups was estimated using [edgeR](http://www.ncbi.nlm.nih.gov/pubmed/19910308). Two gene lists were created by selecting that genes that were differentially expressed in the mesenchymal sugroup when compared to the immunoreactive subgroup (FDR<0.001).  The R code used to generate the data is included at the bottom of the document in the *Additional information* section (below the GSEA section). 
 
 ### Exercise
 
