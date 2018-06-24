@@ -128,14 +128,16 @@ Create an enrichment map
 
 <img src="https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/module3_lab/img/EMinput2.png?raw=true" alt="EM" width="750" />
 
+###IMPORTANT### 
+We populated the fields manually. If you work with your own data, a way to populate automatically the fields is to drag and drop your GSEA folder in the 'Data Set' window. You are encouraged to give it a try once you finished the lab.
+
+
 Unformatted results:
 
 Note: layout will be different for each user (there is a random seed in the layout algorithm) but it does not change the results or interpretation (the connections are the same, only the display is different).
  
 <img src="https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/module3_lab/img/EM3.png?raw=true" alt="EM" width="750" />
 
-###IMPORTANT###
-We populated the fiels manually. If you work with your own data, a way to populate automatically the fields is to drag and drop your GSEA folder in the 'Data Set' window. You are encouraged to give it a try once you finished the lab.
 
 ### Step 3 
 
@@ -247,7 +249,7 @@ Tips: further editing and formatting can be performed on the AutoAnnote results 
 <img src="https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/EM15.png?raw=true" alt="EM" width="750" />
 
 
-###SAVE YOUR FILE!####
+###SAVE YOUR FILE!###
  
 
 
