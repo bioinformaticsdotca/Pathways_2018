@@ -109,8 +109,6 @@ TIP: If after clicking on *g:Profiler* button the analysis completes but there i
 
 ![Run](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/ORA22.png?raw=true)
 
-![Warning](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/ORA23.png?raw=true)
-
 ![ambiguousmapping](https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/module2_lab/img/ambiguousgenes.png?raw=true)
 
 ### Step 6
