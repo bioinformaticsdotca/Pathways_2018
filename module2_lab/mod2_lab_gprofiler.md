@@ -149,7 +149,7 @@ Tip: we have downloaded the Generic Enrichment Map format because our goal is to
 
 ![results](https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/module2_lab/img/gprofilertable.png?raw=true)
 
-The term *extracellular matrix organization* coming from the Gene Ontology database (*GO:0030198*) is the most significant gene-set (=the lowest FDR value).  Many gene-sets from the top of this list are related to each other and have genes in common. 
+The term *extracellular matrix organization* is the most significant gene-set (=the lowest FDR value).  Many gene-sets from the top of this list are related to each other and have genes in common. 
 
 
 ### Step 8
