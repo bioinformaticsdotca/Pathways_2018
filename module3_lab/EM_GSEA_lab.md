@@ -136,28 +136,25 @@ Note: layout will be different for each user (there is a random seed in the layo
 
 ### Step 3 
 
-Navigate the Enrichment Map to gain a better understanding of a EnrichmentMap network. 
+Navigate the enrichment map to gain a better understanding of a EnrichmentMap network. 
 
-General layout of Cytoscape panel: In addition to the main window where the network is displayed, there are 3 panels: the Control Panel on the left side, the Results Panel on the right side and the Table Panel at the bottom of the window. 
-
-
-<img src="https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/EM4.png?raw=true" alt="EM" width="750" />
+General layout of Cytoscape panel: In addition to the main window where the network is displayed, there are 2 panels: the Control Panel on the left side and the Table Panel at the bottom of the window. 
 
 Steps: 
 
-3a. In the menu bar, select *View Show Graphic details*. It will turn the squared nodes into circles and the gene-set labels will be visible. 
+3a. In the Cytocape menu bar, select *View* and * Show Graphic details*. It will turn the squared nodes into circles and the gene-set labels will be visible. 
   
-<img src="https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/EM5.png?raw=true" alt="EM" width="750" />
+<img src="https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/EM5.png?raw=true" alt="EM" width="350" />
 
 3b: Zoom in or out using + or - in toolbar or scroll button on mouse until you are able to read the labels comfortably.
  
 
-<img src="https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/EM6.png?raw=true" alt="EM" width="750" />
+<img src="https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/EM6.png?raw=true" alt="EM" width="350" />
 
 3c:  Use the bird’s eye view (located at the bottom of the control panel) to navigate around the network by moving the blue rectangle using the mouse or trackpad.
 
 
-<img src="https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/EM7.png?raw=true" alt="EM" width="750" />
+<img src="https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/EM7.png?raw=true" alt="EM" width="350" />
   
 3d: Click on an individual node of interest.
 
