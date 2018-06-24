@@ -134,6 +134,9 @@ Note: layout will be different for each user (there is a random seed in the layo
  
 <img src="https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/module3_lab/img/EM3.png?raw=true" alt="EM" width="750" />
 
+###IMPORTANT###
+We populated the fiels manually. If you work with your own data, a way to populate automatically the fields is to drag and drop your GSEA folder in the 'Data Set' window. You are encouraged to give it a try once you finished the lab.
+
 ### Step 3 
 
 Navigate the enrichment map to gain a better understanding of a EnrichmentMap network. 
@@ -242,6 +245,9 @@ Note: The network is now subdivided into clusters that are represented by ellips
 Tips: further editing and formatting can be performed on the AutoAnnote results using the *AutoAnnotate Display* in the *Results Panels* located at the right side of the window. For example, it is possible to change Ellipse to Rectangle, uncheck *Scale font by cluster size* and increase the *Font Scale* using the scaling bar.
 
 <img src="https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/EM15.png?raw=true" alt="EM" width="750" />
+
+
+###SAVE YOUR FILE!####
  
 
 
