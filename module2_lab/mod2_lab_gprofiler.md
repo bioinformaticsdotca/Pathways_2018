@@ -155,7 +155,9 @@ The term *extracellular matrix organization* coming from the Gene Ontology datab
 ### Step 8
 
 Optional:   
-If time permits, play with input  parameters, e.g. add *TRANSFAC TFBS* and *miRBase microRNAs* databases, rerun the query by clicking on the *g:Profile!* button and explore the new results. 
+Option1: If time permits, play with input  parameters, e.g. add *TRANSFAC TFBS* and *miRBase microRNAs* databases, rerun the query by clicking on the *g:Profile!* button and explore the new results.
+
+Option2: Re-run the g:Profiler using the "ordered" query checked. This will run the minimum hypergeometric test. When this option is checked, it assumes that the genes were preordered by significance with the most significant gene at the top of the list. Compare the results between "ordered" and non ordered query.
 
 TIP:Instead of using the g:Profiler website g:profiler can be run directly from R using the gProfilerR package. (See supplemental protocol at Protocol 1 - gProfiler from R for more details. 
 
