@@ -106,6 +106,7 @@ Unformatted results
 
 ![EM18](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/EM18v2.png?raw=true) 
 
+ * In the Cytoscape menu bar, select 'View" and 'Show Graphic Details' to display node labels. Zoom in to be able to read the labels and navigate the network using the bird eye view.
 
 ## Step 3 
 
@@ -113,7 +114,7 @@ Select a node and visualize the *Table Panel*
 
 3a. Click on a node
 
-For this example the node *MESENCHYME DEVELOPMENT* has been selected.
+For this example the node *"MESENCHYME DEVELOPMENT"* has been selected. Tip: you can type it in the search bar, quotes are important.
 
 When the node is selected, it is highlighted in <font color="yellow">yellow</font>.
 
@@ -125,7 +126,16 @@ When the node is selected, it is highlighted in <font color="yellow">yellow</fon
 
 You can now visualize the genes in the MESENCHYME DEVELOPMENT pathway that are higher expressed in the mesenchymal samples when compared to the immunoreactive samples. 
 
-<img src="https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/EM19.png?raw=true" alt="EM" width="750" />
+ <img src="https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/module3_lab/img/EMgprofilersheatmap.png?raw=true"  />
 
+## OPTIONAL
+ 
+ * Create a subnetwork : select nodes connected to the "MESENCHYME DEVELOPMENT" node by looking at the Cytoscape toolbar and selecting the correct icon (2 houses). Once the nodes that are connected to "MESENCHYME DEVELOPMENT" are highlghted in yellow, create a subnetwork by selecting the appropriate icon on the left side on the previous icon. Redo the layout and manually move the nodes so the labels are not overlapping.
+ 
+ <img src="https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/module3_lab/img/EMgprofilersubnetwork.png?raw=true"  />
+ 
+
+ * Use the AutoAnnotate App to create annotated clusters. Use the instructions from the GSEA lab.
+ 
 
 
