@@ -128,7 +128,7 @@ Specify the following parameters:
 
 *	 :clock10: Wait 5-10sec for the gene-set selection window to appear.
 	
-![Gene sets database](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/ORA7.png?raw=true)
+![Gene sets database](https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/module2_lab/img/GSEAloadgeneset.png?raw=true)
 
 *	Use the right arrow in the top field to see the Gene matrix (local gmx/gmt) tab.
 
