@@ -223,14 +223,13 @@ Optional exercise: Auto-annotate the network with cluster labels.
 
 Important note: the Apps WordCloud, ClusterMaker and Autoannotate have to be installed.
 
-6a. In the menu bar, select *Apps*, *AutoAnnotate*, *New Annotation Set …*. An *Autoannotate: Create Annotation Set* window pops up.  
+6a. In the menu bar, select *Apps*, *AutoAnnotate*, *New Annotation Set …*. An *Autoannotate: Create Annotation Set* window pops up. Leave default settings and click on *Create Annotations*.  
 
 
-<img src="https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/EM12.png?raw=true" alt="EM" width="750" />
+<img src="https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/EM12.png?raw=true" alt="EM" width="350" />
 
-6b. Click on *Create Annotations*. An *AutoAnnotate* window pops up with the message *AutoAnnotate will manage all groups in this network view*.
 
-6c. Click *OK*.
+In the case that an *AutoAnnotate* window pops up with the message *AutoAnnotate will manage all groups in this network view*, click *OK*.
   
 
 <img src="https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/EM13.png?raw=true" alt="EM" width="750" />
