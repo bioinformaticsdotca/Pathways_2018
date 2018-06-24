@@ -120,9 +120,11 @@ When the node is selected, it is highlighted in <font color="yellow">yellow</fon
 
 3b. In Table Panel:
 
-*	Set Sorting to *Dataset 1 - Dataset1*
+*	Click on the Sort Column on "Ranks Data Set1"
 
-*	Set Normalization to *Row Normalize Data*
+*	Set Expressions to *Row Norm*
+
+* Set Compress to -None- (tip: select the field and use the keyboard arrows up to select it)
 
 You can now visualize the genes in the MESENCHYME DEVELOPMENT pathway that are higher expressed in the mesenchymal samples when compared to the immunoreactive samples. 
 
@@ -138,4 +140,4 @@ You can now visualize the genes in the MESENCHYME DEVELOPMENT pathway that are h
  * Use the AutoAnnotate App to create annotated clusters. Use the instructions from the GSEA lab.
  
 
-
+#### SAVE YOUR FILE ! ####
