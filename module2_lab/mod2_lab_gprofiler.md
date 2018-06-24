@@ -119,9 +119,7 @@ Once g:Profiler finishes to run, a link to the results appears at the bottom of 
 
 6a. Right click on this link and save the file on your computer. 
 
-6b. Right click on the 'name' link to save the hsapiens.pathways.NAME.gmt folderon your computer. This is a zipped folder containing several files. The file 'hsapiens.pathways.NAME.gmt' that we will use is included in this folder. 
-
-Note: we will use a similar file to create an Enrichment Map in Module 3 - Practical lab.
+6b. Optional but recommended: Right click on the 'name' link to save the hsapiens.pathways.NAME.gmt folderon your computer. This is a zipped folder containing several files. The file 'hsapiens.pathways.NAME.gmt' is the one that we will use when we create an enrichment map in module 3 as optional step. 
 
 ![Download Results](https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/ORA24.png?raw=true)
 
