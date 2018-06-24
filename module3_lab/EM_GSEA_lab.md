@@ -205,12 +205,16 @@ Optional exercise. Add drug target gene-sets to the network (Add Signature Gene-
 5b. Using the 'Load from File...' button, select the *Human_DrugBank_approved_symbol_selected.gmt* file that you saved on your computer.
 
 5c. Click on "Finish". 
-
-
-
-<img src="https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/EM11.png?raw=true" alt="EM" width="750" />
   
 Note: Four additional nodes are now added to the network and visible as yellow triangles. Pink edges represent their overlap with the nodes of our network. These additional nodes represent gene targets of some approved drugs and these genes are either specific of the mesenchymal type (pink edges connected to red nodes) or specific of the immunoreactive type (pink edges connected to blue nodes).
+
+<img src="https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/module3_lab/img/drug1.png?raw=true" alt="EM" width="500" />
+
+<img src="https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/module3_lab/img/drug2.png?raw=true" alt="EM" width="500" />
+
+<img src="https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/module3_lab/img/drug3.png?raw=true" alt="EM" width="500" />
+
+<img src="https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/module3_lab/img/drug4.png?raw=true" alt="EM" width="500" />
 
 
 ### Step 6
