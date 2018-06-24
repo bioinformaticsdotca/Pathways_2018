@@ -10,13 +10,13 @@ home: https://bioinformaticsdotca.github.io/pathways_2018
 
 **This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US). This means that you are able to copy, share and modify the work, as long as the result is distributed under the same license.**
 
-# Network Visualization and Analysis with Cytoscape: Enrichment Map from GSEA results
+# Network Visualization and Analysis with Cytoscape: create an enrichment map from GSEA results
 
 By Veronique Voisin
 
 ## Goal of the exercise:
 
-**Create an EnrichmentMap and navigate through the network**
+**Create an enrichment map and navigate through the network**
 
 During this exercise, you will learn how to create an EnrichmentMap from gene-set enrichment results. The enrichment tool chosen for this exercise is GSEA but an enrichment map can be created from various gene-set tools using the generic format or the more specific g:Profiler, DAVID or BiNGO formats.
 
@@ -80,21 +80,21 @@ Follow the steps described below at your own pace:
 
 ### Step 1
 
-Launch Cytoscape and open Enrichment Map App
+Launch Cytoscape and open EnrichmentMap App
 
 1a. Double click on the Cytoscape icon
 
-1b. Open Enrichment Map App
+1b. Open EnrichmentMap App
 
 * In the top menu bar:
 
-   * Click on Apps -> Enrichment Map 
+   * Click on Apps -> EnrichmentMap 
  
 <img src="https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/EM1.png?raw=true" alt="EM" width="750" />
 
 ### Step 2 
 
-Create an EnrichmentMap 
+Create an enrichment map
 
 2a. Locate the Control Panel on the left side of the window, select the *Enrichment Map input panel* to load enrichment results. 
 
