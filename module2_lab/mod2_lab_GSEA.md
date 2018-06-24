@@ -96,7 +96,7 @@ Load Data
 
 2b. In the central panel, select ‘Method 1’ and ‘Browse for files’. A new window pops up.
 
-![Browse files](https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/module2_lab/img/GSEAbrowsefile.png?raw=true)
+![Browse files](https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/module2_lab/img/GSEAbrowsefile2.png?raw=true)
 
 2c. Browse your computer to locate the 2 files : *Human_GOBP_AllPathways_no_GO_iea_May_24_2016_symbol.gmt* and *MesenchymalvsImmunoreactive_edger_ranks.rnk*. 
 
