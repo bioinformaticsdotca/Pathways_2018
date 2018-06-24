@@ -134,6 +134,10 @@ You can now visualize the genes in the MESENCHYME DEVELOPMENT pathway that are h
  
  * Create a subnetwork : select nodes connected to the "MESENCHYME DEVELOPMENT" node by looking at the Cytoscape toolbar and selecting the correct icon (2 houses). Once the nodes that are connected to "MESENCHYME DEVELOPMENT" are highlghted in yellow, create a subnetwork by selecting the appropriate icon on the left side on the previous icon. Redo the layout and manually move the nodes so the labels are not overlapping.
  
+  
+ <img src="https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/module3_lab/img/button.png?raw=true"  />
+ 
+ 
  <img src="https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/module3_lab/img/EMgprofilersubnetwork.png?raw=true"  />
  
 
