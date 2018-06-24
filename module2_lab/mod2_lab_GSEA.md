@@ -83,7 +83,7 @@ Launch GSEA.
 <img src="https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/module2_lab/img/launchGSEA3.0.png?raw=true" alt="Launch GSEA" width="750" />
 
 
-Note regarding option 2: GSEA has been updated to version 3.0: download the .jar file named gsea-3.0.jar and run this command:
+Note regarding option 2: GSEA has been updated to version 3.0: if you still have the gsea_2.2 version, download the .jar file named gsea-3.0.jar from the GSEA Broad website (http://software.broadinstitute.org/gsea/downloads.jsp), open a terminal window and run this command:
  * **java -Xmx4G -jar gsea-3.0.jar**
 
 ### Step 2.
