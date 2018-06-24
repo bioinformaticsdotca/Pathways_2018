@@ -198,17 +198,14 @@ Note: the red pathways (nodes) are specific of the mesenchymal phenotype. There 
 
 ### Step 5
 
-Optional exercise. Add drug target gene-sets to the network (Known Signature, PostAnalysis).
+Optional exercise. Add drug target gene-sets to the network (Add Signature Gene-Sets...).
 
-5a. From the menu bar, go to *Apps*, *EnrichmentMap* and select *Load Post Analysis Panel*.
+5a. In Control Panel, go to the EnrichmentMap tab and click on "Add Signature Gene Sets..." located below the white 'Data Sets:' window. A window named "EnrichmentMap: Add Signature Gene Sets (Post-Analysis) is now opened.
 
-5b. Locate the *Control Panel* located at the left side of the window and select the *Post Analysis Input Panel*.
+5b. Using the 'Load from File...' button, select the *Human_DrugBank_approved_symbol_selected.gmt* file that you saved on your computer.
 
-5c. Select *Known Signature*.
+5c. Click on "Finish". 
 
-5d. In the *Gene-Sets* section, click on the box (...) located at the right side of the *SigGMT* field to look for the *Human_DrugBank_approved_symbol_selected.gmt* file and click on *Open*.
-
-5e. Click on *Run* located at the bottom of the panel.
 
 
 <img src="https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/EM11.png?raw=true" alt="EM" width="750" />
