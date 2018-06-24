@@ -80,7 +80,8 @@ Before starting this exercise, download the 2 required files:
 
 Launch GSEA.
 
-<img src="https://github.com/bioinformaticsdotca/HT-Biology_2017/blob/master/Pathways/img/launchGSEA3.png?raw=true" alt="Launch GSEA" width="750" />
+<img src="https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/module2_lab/img/launchGSEA3.0.png?raw=true" alt="Launch GSEA" width="750" />
+
 
 Note regarding option 2: GSEA has been updated to version 3.0: download the .jar file named gsea-3.0.jar and run this command:
  * **java -Xmx4G -jar gsea-3.0.jar**
