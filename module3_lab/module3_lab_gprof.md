@@ -97,8 +97,8 @@ Create an enrichment map
  *	Phenotype - In the text boxes type *Mesenchymal* in the "Positive" field.  Mesenchymal will be associated with red nodes because it corresponds to the phenotype in the g:Profiler result (gene list)
 
   *	Set FDR q-value cutoff to 0.0001 TIP: to set threshold to very small numbers select Scientific Notation and set Q-value cut off to 1E-04
- 
-<img src="https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/module3_lab/img/EMgprofilerinput.png?raw=true"  />
+
+<img src="https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/module3_lab/img/EMgprofilerinput.png?raw=true"  width="750"/>
  
 2c. Click on *Build* button at the bottom of the Enrichment Map Input panel.
 
@@ -128,7 +128,7 @@ When the node is selected, it is highlighted in <font color="yellow">yellow</fon
 
 You can now visualize the genes in the MESENCHYME DEVELOPMENT pathway that are higher expressed in the mesenchymal samples when compared to the immunoreactive samples. 
 
- <img src="https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/module3_lab/img/EMgprofilerheatmap.png?raw=true"  />
+ <img src="https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/module3_lab/img/EMgprofilerheatmap.png?raw=true"  width="750" />
 
 ## OPTIONAL
  
