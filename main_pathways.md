@@ -20,7 +20,7 @@ Pre-readings, pre-work, and laptop setup instructions can be found [here](https:
 
 We are using Google Classroom for discussion. Join the Class at https://classroom.google.com, select the "+" symbol in the upper right corner, click on "Join Class" and enter the class code provided to you.
 
-The full course notes are available as a [single PDF]().  
+The full course notes are available as a [single PDF](https://drive.google.com/open?id=1Nsjhli7b9CF0IrnjWrDabrHCk24iJ0NY).  
 
 ***
 ***  
@@ -35,13 +35,13 @@ The full course notes are available as a [single PDF]().
 
   *<font color="#827e9c">Gary Bader</font>*
   
-  [Lecture]()   
+  [Lecture](https://drive.google.com/open?id=14NE9DA6Oifww2u0cIZY8O6uhr1MT-Ums)   
     
 ##  Module 2 Finding Over-Represented Pathways 
 
   *<font color="#827e9c">Veronique Voisin</font>*
   
-  [Lecture]()    
+  [Lecture](https://drive.google.com/open?id=10r1uvCKuvyMcDYxQ2Or0rBgCeiCQhzkx)    
 
 [Introduction to practical lab]()  
 
@@ -53,9 +53,9 @@ The full course notes are available as a [single PDF]().
 
  *<font color="#827e9c">Gary Bader</font>*  
   
- [Lecture part 1]()  
+ [Lecture part 1](https://drive.google.com/open?id=18ybduTJBdI0xZTYo-zgHPHvqkR_SL1V-)  
     
- [Lecture part 2]() 
+ [Lecture part 2](https://drive.google.com/open?id=1qdqtuZaDwdtahL1-5QmsW8dAETKf2oSY) 
  
  *<font color="#827e9c">Veronique Voisin</font>*  
  
@@ -70,9 +70,9 @@ The full course notes are available as a [single PDF]().
 
   *<font color="#827e9c">Lincoln Stein and Robin Haw</font>*
   
-  [Lecture]()   
+  [Lecture](https://drive.google.com/open?id=1qwnEj1KTPxJ7Rq1wfPvV-14t3n-2Dq8R)   
   
-  [Lab Lecture]()
+  [Lab Lecture](https://drive.google.com/open?id=1IjbjF0HUVBY85v8LyNKyn1yzW_rt2UJ2)
   
   [Lab practical](http://bioinformaticsdotca.github.io/pathways_2018_module4_lab)
 
@@ -81,7 +81,7 @@ The full course notes are available as a [single PDF]().
 
   *<font color="#827e9c">Sara Mostafavi</font>*
   
-  [Lecture]()  
+  [Lecture](https://drive.google.com/open?id=1u7gHlD23iVOe_717shgpkA3O7pcLYmpK)  
   
   [Lab practical](http://bioinformaticsdotca.github.io/pathways_2018_module5)  
   
@@ -92,9 +92,9 @@ The full course notes are available as a [single PDF]().
 
 *<font color="#827e9c">Michael Hoffman</font>*
   
-  [Lecture]()  
+  [Lecture](https://drive.google.com/open?id=1xDYjdKIBNkCyBtZLwhwToIXJlr9d8zM2)  
   
-  [Lab lecture]()  
+  [Lab lecture](https://drive.google.com/open?id=1S6S7pDUciC11VfeyP_boJ5Mz12Z4dOZq)  
   
   [Lab practical](http://bioinformaticsdotca.github.io/pathways_2018_module6) 
 
@@ -102,7 +102,7 @@ The full course notes are available as a [single PDF]().
 
 *<font color="#827e9c">Veronique Voisin</font>*   
 
-[Lecture]()  
+[Lecture](https://drive.google.com/open?id=17rPj_t14na1rrJvcfJvobYUE8Oz7kDky)  
 
 [Tools and workflows](http://bioinformaticsdotca.github.io/pathways_2018_tools_and_workflows)  
 
