@@ -43,7 +43,7 @@ The full course notes are available as a [single PDF](https://drive.google.com/o
   
   [Lecture](https://drive.google.com/open?id=10r1uvCKuvyMcDYxQ2Or0rBgCeiCQhzkx)    
 
-[Introduction to practical lab]()  
+[Introduction to practical lab](https://drive.google.com/a/bioinformatics.ca/file/d/12o0HZf5Ak7-Y0aG_geebd1CRYG6x15be/view?usp=sharing)  
 
 [Lab practical part 1 (g:Profiler)](http://bioinformaticsdotca.github.io/pathways_2018_module2_lab_1)    
 
