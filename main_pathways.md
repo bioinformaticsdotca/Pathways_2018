@@ -23,6 +23,11 @@ We are using Google Classroom for discussion. Join the Class at https://classroo
 The full course notes are available as a [single PDF](https://drive.google.com/open?id=1Nsjhli7b9CF0IrnjWrDabrHCk24iJ0NY).  
 
 ***
+
+# Class photo
+
+<img src="https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/CBW-June-25.jpg?raw=true" alt="img" width="750" />
+
 ***  
 
 # Day 1 <a id="day1"></a>
