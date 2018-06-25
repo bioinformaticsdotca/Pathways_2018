@@ -100,7 +100,7 @@ Create an enrichment map
 
 2a. In the 'Create EnrichmentMap' window, add a dataset of the GSEA type by clicking on the '+' plus sign.
 
-<img src="https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/module3_lab/img/EMinput.png?raw=true"  />
+<img src="https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/module3_lab/img/EMinput.png?raw=true" width="750" />
 
 2b. Specify the following parameters:
 
