@@ -116,7 +116,7 @@ The full course notes are available as a [single PDF]().
 
 # Additional tutorials <a id="additionaltutorials"></a>
 
-EnerichmentMap (GSEA and g:Profiler) step by step protocol:
+EnrichmentMap (GSEA and g:Profiler) step by step protocol:
 https://www.biorxiv.org/content/early/2017/12/12/232835
 and https://github.com/BaderLab/Cytoscape_workflows
 
