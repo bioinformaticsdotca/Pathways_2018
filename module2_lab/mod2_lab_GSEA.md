@@ -92,11 +92,12 @@ Load Data
 
 2a. Locate the ‘Load data’ icon at the upper left corner of the window and click on it.
 
-![Load data](https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/module2_lab/img/GSEAloaddata.png?raw=true)
+<img src="https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/module2_lab/img/GSEAloaddata.png?raw=true" alt="Load data" width="750" />
+
 
 2b. In the central panel, select ‘Method 1’ and ‘Browse for files’. A new window pops up.
 
-![Browse files](https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/module2_lab/img/GSEAbrowsefile2.png?raw=true)
+<img src="https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/module2_lab/img/GSEAbrowsefile2.png?raw=true" alt="Browse files" width="750" />
 
 2c. Browse your computer to locate the 2 files : *Human_GOBP_AllPathways_no_GO_iea_May_24_2016_symbol.gmt* and *MesenchymalvsImmunoreactive_edger_ranks.rnk*. 
 
@@ -116,7 +117,7 @@ Adjust parameters
 
 3a. Under the *Tools* menu select *GseaPreRanked*.
 
-![GseaPreRanked](https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/module2_lab/img/GSEAprerank.png?raw=true)
+<img src="https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/module2_lab/img/GSEAprerank.png?raw=true" alt="GseaPreRanked" width="750" />
 
 3b. *Run GSEA on a Pre-Ranked gene list* tab will appear.
 
@@ -128,7 +129,7 @@ Specify the following parameters:
 
 *	 :clock10: Wait 5-10sec for the gene-set selection window to appear.
 	
-![Gene sets database](https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/module2_lab/img/GSEAloadgeneset.png?raw=true)
+<img src="https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/module2_lab/img/GSEAloadgeneset.png?raw=true" alt="Gene sets database" width="750" />
 
 *	Use the right arrow in the top field to see the Gene matrix (local gmx/gmt) tab.
 
@@ -140,7 +141,7 @@ Specify the following parameters:
 
 *	*Human_GOBP_AllPathways_no_GO_iea_December_24_2016_symbol.gmt* is now visible in the field corresponding to Gene sets database.
 
-![GSEAparameters](https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/module2_lab/img/GSEAparameter.png?raw=true)
+<img src="https://github.com/bioinformaticsdotca/Pathways_2018/blob/master/module2_lab/img/GSEAparameter.png?raw=true" alt="GSEAparameters" width="750" />
 
 3d. Number of permutations - 100. The number of permutations is the number of times that the gene-sets will be randomized in order to create a null distribution to calculate the FDR.  
 :exclamation: Use 2000 when you do it for your own data outside the workshop.
