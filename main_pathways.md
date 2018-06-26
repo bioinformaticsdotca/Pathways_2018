@@ -40,7 +40,9 @@ The full course notes are available as a [single PDF](https://drive.google.com/o
 
   *<font color="#827e9c">Gary Bader</font>*
   
-  [Lecture](https://drive.google.com/open?id=14NE9DA6Oifww2u0cIZY8O6uhr1MT-Ums)   
+  [Lecture](https://drive.google.com/open?id=14NE9DA6Oifww2u0cIZY8O6uhr1MT-Ums)
+  
+  [Recording](https://www.youtube.com/watch?v=3F5UcwYfY40)
     
 ##  Module 2 Finding Over-Represented Pathways 
 
