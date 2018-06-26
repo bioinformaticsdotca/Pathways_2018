@@ -48,7 +48,7 @@ o	Click OK.
 3.	Describe the TP53-PEG3 interaction, and the source information to support this interaction?  
 4.	Describe the data sources for the TAF1-TAF7L FI?  
 5.	After clustering, how many modules are there?   
-6.	How many pathway gene sets are there in Module 2 when the FDR Filter is set to 0.0001 and Module Size Filter to 10?   
+6.	How many pathway gene sets are there in Module 3 when the FDR Filter is set to 0.0001 and Module Size Filter to 10?   
 o	Hint: Analyze Module Functions>Pathway Enrichment. Select appropriate filters at each step.  
 7.	What are the most significant pathway gene sets in Module 0, 1, 3?  
 o	Hint: You don’t need to list them all!   
