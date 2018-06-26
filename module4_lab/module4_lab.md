@@ -81,3 +81,5 @@ o	Hint: Analyze Module Functions>Survival Analysis>Upload/Browse [OVCA_TCGA_Clin
 11.	What does the Kaplan-Meyer plot show for the most clinically significant modules?  
 o	Hint: Click the most statistically significant module link [blue line] from the CoxPH results panel. Click OK. Click #_plot.pdf to display Kaplan-Meyer plot. Repeat this for the other significant module links. KM plot: samples having genes mutated in a module (green line), and samples having no genes mutated in the module (red line).    
 12. Taking into consideration what you have about module 4, what is your hypothesis?
+
+[Answer key](https://bioinformaticsdotca.github.io/pathways_2018_module4_lab_answers)
