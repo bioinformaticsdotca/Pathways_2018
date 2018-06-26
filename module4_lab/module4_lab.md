@@ -48,7 +48,7 @@ o	Click OK.
 5.	After clustering, how many modules are there?   
 6.	How many pathway gene sets are there in Module 2 when the FDR Filter is set to 0.0001 and Module Size Filter to 10?   
 o	Hint: Analyze Module Functions>Pathway Enrichment. Select appropriate filters at each step.  
-7.	What are the most significant pathway gene sets in Module 1, 2, 3?  
+7.	What are the most significant pathway gene sets in Module 0, 1, 3?  
 o	Hint: You don’t need to list them all!   
 
 **Example 3: Network-based analysis of OvCa somatic mutation**   
@@ -68,12 +68,14 @@ o	Hint: Analyze Module Functions>Pathway Enrichment. Select appropriate filters 
 5.	What are the most significant pathway gene sets in Module 0, 2, 3 and 5?   
 6.	Do the GO Biological Process annotations correlate with the significant pathway annotations for Module 0?   
 o	Hint: Analyze Module Functions>GO Biological Process. Select appropriate filters at each step.  
-7.	What are the most significant GO Cell Component gene sets in Module 3 when the FDR Filter is set to 0.005 and Module Size Filter to 10? [Optional]  
+7.	What are the most significant GO Cell Component gene sets in Module 1 when the FDR Filter is set to 0.005 and Module Size Filter to 10? [Optional]  
 o	Hint: Analyze Module Functions>GO Cell Component. Select appropriate filters at each step.  
 8.	Are any of the modules annotated with the NCI Disease term: “Stage_IV_Breast_Cancer” [malignant cancer]?  
 o	Hint: Load Cancer Gene Index>Neoplasm>Neoplasm_by_Site>Breast Neoplasm>…….  
-9.	How many modules are statistically significant in the CoxPH analysis?   
+9.	What are the targets of Imatinib Mesylate?
+o	Hint: Overlay Cancer Drugs>Fetch Cancer Drugs. Maybe apply filters? 
+10.	How many modules are statistically significant in the CoxPH analysis?   
 o	Hint: Analyze Module Functions>Survival Analysis>Upload/Browse [OVCA_TCGA_Clinical.txt](https://raw.githubusercontent.com/bioinformatics-ca/bioinformatics-ca.github.io/master/2016_workshops/cancer/OVCA_TCGA_Clinical.txt). Click OK.  
-10.	What does the Kaplan-Meyer plot show for the most clinically significant modules?  
-o	Hint: Click the most statistically significant module link [blue line] from the CoxPH results panel. Click OK. Click #_plot.pdf to display Kaplan-Meyer plot. Repeat this for the other significant module links. KM plot: samples having genes mutated in a module (green line), and samples having no genes mutated in the module (red line).  
-11.	Taking into what you have learned about module 2, what is your hypothesis?  
+11.	What does the Kaplan-Meyer plot show for the most clinically significant modules?  
+o	Hint: Click the most statistically significant module link [blue line] from the CoxPH results panel. Click OK. Click #_plot.pdf to display Kaplan-Meyer plot. Repeat this for the other significant module links. KM plot: samples having genes mutated in a module (green line), and samples having no genes mutated in the module (red line).    
+12. Taking into consideration what you have about module 4, what is your hypothesis?
