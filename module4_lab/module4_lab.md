@@ -17,6 +17,8 @@ modified: June 26th, 2018
 
 By Robin Haw
 
+**Aim:** This exercise will provide you with an opportunity to perform pathway and network analysis using the Reactome Functional Interaction (FI) and the ReactomeFIViz app. 
+
 **Goal:** Analyze gene lists and somatic mutation data to identify biology that contributes to GBM and ovarian cancer.
 
 **Example 1: Pathway-based analysis of GBM genelist**
