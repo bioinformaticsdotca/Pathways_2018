@@ -83,7 +83,9 @@ The full course notes are available as a [single PDF](https://drive.google.com/o
   
   [Lab Lecture](https://drive.google.com/open?id=1IjbjF0HUVBY85v8LyNKyn1yzW_rt2UJ2)
   
-  [Lab practical](http://bioinformaticsdotca.github.io/pathways_2018_module4_lab)
+  [Lab practical](http://bioinformaticsdotca.github.io/pathways_2018_module4_lab)  
+  
+  [PPT of lab lecture](https://drive.google.com/a/bioinformatics.ca/file/d/11_dug9ROpo9RkLkq-tPh5KdgGnMqvDNN/view?usp=sharing)
 
 
 ##  Module 5: Gene Function Prediction  
