@@ -107,7 +107,7 @@ Create an enrichment map to visualize the outputs from g:Profiler. Let's create 
 
 10.  Try different layouts if you'd like. Zoom in  and move nodes around to be able to read the labels.
 
-11. Try to separate blue nodes and green nodes. In 'Control Panel' located at the left style, choose the 'Style' tab. Click on the '+' plus sign to add a column to filter your data. Choose "NodeL:EM1_Colouring" corresponding to the NE datasets. Do not touch the slide bar and click on "Apply" located at the bottom of the tab. Now it has selected all the NE nodes. Click on one NE nodes and drag them all to the one side of the window, apart from the BE nodes. Click once on a blank space of the window to unselect the nodes.
+11. Try to separate blue nodes and green nodes. In 'Control Panel' located at the left style, choose the 'Select' tab. Click on the '+' plus sign to add a column to filter your data. Choose "NodeL:EM1_Colouring" corresponding to the NE datasets. Do not touch the slide bar and click on "Apply" located at the bottom of the tab. Now it has selected all the NE nodes. Click on one NE nodes and drag them all to the one side of the window, apart from the BE nodes. Click once on a blank space of the window to unselect the nodes.
 
 6.   Select a node of your choice. When the node is highlighted, the 'EM Heat Map' in 'Table Panel' will display the genes in this pathway that are overlapping with your input gene list. A gray square means that the gene is absent in the dataset.
 Note: you also could create and upload an expression file when you build the enrichment map, and the expression values for each gene in the pathways will be displayed here in the 'EM Heat Map'. 
