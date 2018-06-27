@@ -48,7 +48,9 @@ The full course notes are available as a [single PDF](https://drive.google.com/o
 
   *<font color="#827e9c">Veronique Voisin</font>*
   
-  [Lecture](https://drive.google.com/open?id=10r1uvCKuvyMcDYxQ2Or0rBgCeiCQhzkx)    
+  [Lecture](https://drive.google.com/open?id=10r1uvCKuvyMcDYxQ2Or0rBgCeiCQhzkx) 
+  
+  [Recording](https://www.youtube.com/watch?v=bvPJyP7XIzw)
 
 [Introduction to practical lab](https://drive.google.com/a/bioinformatics.ca/file/d/12o0HZf5Ak7-Y0aG_geebd1CRYG6x15be/view?usp=sharing)  
 
@@ -64,6 +66,8 @@ The full course notes are available as a [single PDF](https://drive.google.com/o
     
  [Lecture part 2](https://drive.google.com/open?id=1qdqtuZaDwdtahL1-5QmsW8dAETKf2oSY) 
  
+ [Recording](https://www.youtube.com/watch?v=ZwaTTCcA-fo)
+ 
  *<font color="#827e9c">Veronique Voisin</font>*  
  
 [Lab practical part 1](http://bioinformaticsdotca.github.io/pathways_2018_module3_lab_1)   
@@ -78,8 +82,6 @@ The full course notes are available as a [single PDF](https://drive.google.com/o
   *<font color="#827e9c">Lincoln Stein and Robin Haw</font>*
   
   [Lecture](https://drive.google.com/open?id=1qwnEj1KTPxJ7Rq1wfPvV-14t3n-2Dq8R)   
-  
-  [Recording](https://www.youtube.com/watch?v=bvPJyP7XIzw)
   
   [Lab Lecture](https://drive.google.com/open?id=1IjbjF0HUVBY85v8LyNKyn1yzW_rt2UJ2)
   
