@@ -98,6 +98,8 @@ The full course notes are available as a [single PDF](https://drive.google.com/o
   
   [Lecture](https://drive.google.com/open?id=1u7gHlD23iVOe_717shgpkA3O7pcLYmpK)  
   
+  [Recording](https://www.youtube.com/watch?v=q8mJxRutH5c)
+  
   [Lab practical](http://bioinformaticsdotca.github.io/pathways_2018_module5)  
   
 
