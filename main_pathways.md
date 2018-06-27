@@ -109,7 +109,9 @@ The full course notes are available as a [single PDF](https://drive.google.com/o
 
 *<font color="#827e9c">Michael Hoffman</font>*
   
-  [Lecture](https://drive.google.com/open?id=1xDYjdKIBNkCyBtZLwhwToIXJlr9d8zM2)  
+  [Lecture](https://drive.google.com/open?id=1xDYjdKIBNkCyBtZLwhwToIXJlr9d8zM2) 
+  
+  [Recording](https://www.youtube.com/watch?v=6rdI4KaRFlM&list=PL3izGL6oi0S9D8o8XXOBKGnX0dXXHse0U&index=7)
   
   [Lab lecture](https://drive.google.com/open?id=1S6S7pDUciC11VfeyP_boJ5Mz12Z4dOZq)  
   
