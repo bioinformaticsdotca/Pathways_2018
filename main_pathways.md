@@ -139,6 +139,6 @@ https://github.com/cytoscape/cytoscape-automation/blob/master/for-scripters/R/ad
 
 ***
 
-Thank you for attending the Pathway and Network Analysis of Omics Data workshop! Help us make this workshop better by filling out [our survey]().
+Thank you for attending the Pathway and Network Analysis of Omics Data workshop! Help us make this workshop better by filling out [our survey](https://docs.google.com/forms/d/e/1FAIpQLSf-PgF_USLNzjhYBQAmsJPgTjr3lSFtcHYOX8QXVipxKsa48A/viewform?usp=sf_link).
 
 *** 
